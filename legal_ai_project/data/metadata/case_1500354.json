@@ -1,0 +1,50 @@
+{
+    "case_id": "case_1500354",
+    "doc_id": "1500354",
+    "case_title": "Smt. Bhagwati Bai And Anr. vs Bablu @ Mukund And Ors.",
+    "court": "Madhya Pradesh High Court",
+    "judgment_date": "2006-11-04",
+    "raw_judgment_date": "4 November, 2006",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Smt. Bhagwati Bai And Anr.",
+        "respondent": "Bablu @ Mukund And Ors.",
+        "insurance_company": null
+    },
+    "bench": [
+        "Chief Justice"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 165",
+            "Section 166"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939"
+        ],
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ],
+        "Code of Civil Procedure, 1908": [
+            "CPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/1500354/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 20374,
+    "collection_timestamp": "2026-08-24T15:52:15.819653+00:00",
+    "cleaned_text_length": 18781,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

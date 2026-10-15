@@ -1,0 +1,40 @@
+{
+    "case_id": "case_168346092",
+    "doc_id": "168346092",
+    "case_title": "Dr. Rajasi @ Swapna W/O Shashank Dandge vs Dr. Shashank S/O Vitthalrao Dandge",
+    "court": "Bombay High Court",
+    "judgment_date": "2015-01-06",
+    "raw_judgment_date": "6 January, 2015",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Dr. Rajasi @ Swapna W/O Shashank Dandge",
+        "respondent": "Dr. Shashank S/O Vitthalrao Dandge",
+        "insurance_company": null
+    },
+    "bench": [
+        "Mridula Bhatkar"
+    ],
+    "legal_sections": {
+        "Indian Penal Code, 1860": [
+            "IPC",
+            "Section 304"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/168346092/",
+    "document_type": "final_judgment",
+    "decision": "appeal_dismissed",
+    "decision_evidence": "25. In the result, the appeal is dismissed. The Cross-",
+    "raw_text_length": 59206,
+    "collection_timestamp": "2026-09-26T04:52:16.040697+00:00",
+    "cleaned_text_length": 40521,
+    "data_quality_score": 0.9,
+    "processing_status": "usable",
+    "exclusion_reason": null,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.30000000000000004
+    }
+}

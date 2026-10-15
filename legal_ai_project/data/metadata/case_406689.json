@@ -1,0 +1,40 @@
+{
+    "case_id": "case_406689",
+    "doc_id": "406689",
+    "case_title": "Anupam Das vs Smt. Mampi Das",
+    "court": "Calcutta High Court",
+    "judgment_date": "2007-10-04",
+    "raw_judgment_date": "4 October, 2007",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Anupam Das",
+        "respondent": "Smt. Mampi Das",
+        "insurance_company": null
+    },
+    "bench": [
+        "T. Vaiphei"
+    ],
+    "legal_sections": {
+        "Code of Civil Procedure, 1908": [
+            "CPC",
+            "{}"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/406689/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 14563,
+    "collection_timestamp": "2026-09-26T04:52:16.291287+00:00",
+    "cleaned_text_length": 13140,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

@@ -1,0 +1,626 @@
+Ganesh vs Syed Munned Ahamed And Ors. on 18 September, 1998
+Premium
+Premium
+[Cites
+40
+, Cited by
+106
+]
+Karnataka High Court
+Ganesh vs Syed Munned Ahamed And Ors. on 18 September, 1998
+Equivalent citations: 2000ACJ1463
+Bench:
+P. Vishwanatha Shetty
+,
+V. Gopala Gowda
+JUDGMENT
+
+ G.C. Bharuka, J.
+1. The Division Bench, which was hearing the present first appeal on merits, has referred the following questions of law to the Full Bench for its opinion:
+Whether in a case of a motor vehicle accident caused due to the composite negligence of the drivers of two or more vehicles, the person who is injured or the legal representatives of a person who is killed in such an accident, is/are entitled to claim the entire compensation from all or any of the drivers, owners and insurers of the vehicles involved in the accident.
+OR
+
+Whether in such a case the injured or the legal representatives of the deceased can recover only that part of compensation from each set of driver, owner or insurer which is proportionate to the quantum of negligence of that driver, which contributed to the accident?
+2. The present appeal has been filed under
+Section 173
+of the Motor Vehicles Act, 1988 (in short 'the new Act') against a judgment and award dated 20.10.1992 passed by the Motor Accidents Claims Tribunal, Bangalore Rural District in M.V.C. No. 1111 of 1988 awarding a compensation of Rs. 35,000 to the appellant with interest at the rate of 6 per cent per annum from the date of petition till the date of deposit with costs. Out of the said sum, respondent No. 1, Syed Munned Ahamed, being the owner of the lorry No. MED 7457 (hereinafter the 'first lorry') has been held liable to pay 70 per cent and respondent No. 3, R. Rangappa Naik and respondent No. 4, New India Assurance Co. Ltd., respectively being the owner and the insurer of lorry bearing No. CAA 2978 (hereinafter the 'second lorry') have been held liable to pay 30 per cent jointly and severally.
+It may be relevant to specifically notice here that respondent No. 2, United India Insurance Co. Ltd., has been absolved of its liability as insurer of the first lorry in which the appellant and two other injured persons were travelling on the ground that they were gratuitous passengers.
+3. I will proceed to answer the question of law referred to me on the basis of the facts found and the respective liabilities determined by the Tribunal, leaving it open for the Division Bench to examine the validity thereof on merits.
+4. The Tribunal found that on 9.10.88 at 7 a.m. while the present appellant along with Venkatesh, PW 1 and Shankar, PW 3 was travelling in the first lorry towards Bangalore sustained injuries because of head-on collision between the first and second lorries, which were proceeding in opposite directions. The Tribunal has further found that the said accident had taken place because of an unwarranted effort on the part of the driver of the first lorry to overtake a K.S.R.T.C. bus despite the signal given by the bus driver not to do so. Accordingly, the Tribunal did not find any fault with the driver of K.S.R.T.C. bus but found the drivers of the two lorries being accused of rash and negligent driving to the extent noticed above.
+5. One of the grounds raised before the Division Bench in this appeal was that it was a case of composite negligence of the drivers of two lorries and that the appellant who had sustained injuries on account of that composite negligence was entitled to recover the whole of the compensation either from the owner and insurer of the second lorry or from the owner of the first lorry in which he was travelling and that the Tribunal has erred in restricting his claim against owner and insurer of the second lorry only to the extent of 30 per cent of the compensation.
+6. It was further contended by the learned counsel appearing for the appellant before the Division Bench, that the ruling of this court in the case of
+Karnataka State Road Trans.Corporation v. Reny Mammen
+, holding that in the case of a claim for compensation for death or injury caused by a motor accident on account of rash or negligent driving of more than one motor vehicle by the drivers of those vehicles, the Tribunal should award compensation against each set of drivers, owners and insurers separately after apportioning liability between the drivers, owners and insurers of each of the vehicles involved in the accident, does not lay down the correct law and is opposed to the view taken by this court in earlier decisions and the view taken by several other High Courts.
+7.
+In
+Reny Mammen
+'s case , it has been laid down that in case of death or injury caused to a person on account of composite negligence of drivers of two or more vehicles, the driver, owner and insurer of each vehicle will be liable to pay compensation to the extent of the negligence of the driver concerned which contributed to the accident and that the entire compensation cannot be claimed by the injured or the legal representatives of the deceased from each one of the drivers, owners and insurers jointly and severally. In para 16 of the judgment, decisions in which joint liability is fixed without fixing the proportion of negligence or apportioning the liability; decisions in which the view taken is that in such cases proportion of negligence should be fixed but there should be no apportionment of compensation and the claimant has the choice of recovering the entire compensation from one or the other and decisions in which both proportion of negligence as also apportionment of liability is made, have been catalogued.
+8. It appears that several High Courts including this court, in two cases has taken the view that in a case of composite negligence, the drivers, owners and insurers of all the vehicles are jointly and severally liable to pay the compensation.
+9. In A. Shivarudrappa v. General Manager, Mysore Road Trans.Corporation 1973 ACJ 302 (Mysore), the claimant, who was travelling in the State Road TransportCorporation bus sustained injury in an accident in which there was a collision between the bus and a truck. The appellant had sought for compensation from the State TransportCorporation. The Tribunal rejected the claim for compensation as the appellant had not impleaded the driver and owner of the truck. This court while reversing the finding of the Tribunal held that the liability of both the drivers and their masters was joint and several and that it was open to the appellant to bring an action for damages against both or either of the drivers or his master.
+10.
+In
+Rama Bai v. H. Mukunda Kamath
+1986 ACJ 561 (Karnataka), after dealing with the distinction between contributory negligence and composite negligence, this court in para 27 has held that in a case of composite negligence 'every vehicle would be liable to pay the entire amount of compensation'. In that case apportioning of the amount of compensation as between the drivers and owners of the two vehicles in the ratio 50:50 was set aside and liberty was given to the claimant to recover the entire amount of compensation from the owner, driver and insurer of the bus or from the owner, driver and insurer of the truck or from any one of them.
+11. Though in
+Reny Mammen
+'s case , a reference is made to
+Rama Bai
+'s case 1986 ACJ 561 (Karnataka), there is no reference to the decision of this court in A. Shivarudrappa's case 1973 ACJ 302 (Mysore).
+12.
+In
+Reny Mammen
+'s case , a view contrary to the view taken by the Division Bench of this High Court in the above cited two decisions has been taken mainly on two grounds, namely:
+(i) the drivers of two or more vehicles who by their negligence cause an accident are not joint tortfeasors even though the resultant damage caused to the third party is the same, and
+(ii)
+Section 110-B
+of the Motor Vehicles Act, 1939, stipulates that the Tribunal has to specify the amount which shall be paid by the insurer or owner or driver of the vehicle involved in the accident or by all or any of them, as the case may be and that this necessarily means that the Tribunal has to fix the liability of each and every person in respect of the payment of compensation to a person injured or to the legal representatives of the person who died in an accident.
+13. In support of the first ground, the court has referred to some passages in the Law of Torts by Ratanlal and Dhirajlal and Charlesworth on Negligence by R.A. Percy. Those passages extracted from the above books highlight the fact that when there is a collision of two or more vehicles due to negligence of the drivers, the drivers and owners cannot be considered as joint tortfeasors as the tort is not the result of a common design or intent and that they would be several or independent tortfeasors even though the damage caused is same.
+14. But, according to the Division Bench hearing the present appeal, the law on the question as to what is the right of the victim in a case where same damage is caused by independent tortfeasors which is dealt with in the above authorities, was not taken into consideration in
+Reny Mammen
+'s case .
+15.
+In the Law of Torts by Ratanlal and Dhirajlal, 21st Edn., 1987, which is one of the authorities cited in
+Reny Mammen
+'s case , the position of law in a case of composite negligence is stated as hereunder (at p. 455):
+...Where injury is caused by the wrongful act of two parties, the plaintiff is not bound to a strict analysis of the proximate or immediate cause of the event to find out whom he can sue. Subject to the Rules as to remoteness of damage, the plaintiff is entitled to sue all or any of the negligent persons and it is no concern of his whether there is any duty of contribution or indemnity as between those persons, though in any case he cannot recover on the whole more than his whole damage. He has a right to recover the full amount of damages from any of the defendants.
+(Emphasis added)
+16.
+In Charlesworth on Negligence by R.A. Percy, which is the other authority cited in the above
+Reny Mammen
+'s case , the position of law where several independent tortfeasors cause the same damage to the plaintiff, has been dealt with as hereunder (at p. 889):
+Situations can arise where two or more wrongdoers have committed torts which have caused damage to a plaintiff and these are: (1) where the wrongdoers are joint tortfeasors; (2) where they are several independent tortfeasors causing the same damage to him; and (3) where they are several independent tortfeasors but cause different damage to him. In this latter instance each wrongdoer is liable only for that part of the damage caused by him, whilst if one of a number of joint tortfeasors or one of the several tortfeasors causing the same damage is sued alone, then, subject to any right he may have to contribution from the other tortfeasors, he is liable for the whole of the damage, even though he may have been responsible merely for just a small part of it.
+17. It has further been noticed by the Division Bench that in
+Reny Mammen
+'s case , only a portion under the heading 'Joint tortfeasors' in Winfield and Jolowicz on Tort has been quoted, but in the same book dealing with the law relating to joint tortfeasors and several tortfeasors at page 581 it has been stated as hereunder:
+...where two or more people by their independent breaches of duty to the plaintiff cause him to suffer distinct injuries, no special Rules are required, for each tortfeasor is liable for the damage which he has caused and only for that damage. Where, however, two or more breaches of duty by different persons cause the plaintiff to suffer a single injury the position is more complicated. The law in such a case is that the plaintiff is entitled to sue all or any of them for the full amount of his loss, which means that special Rules are necessary to deal with the possibilities of successive actions in respect of that loss and of claims for contribution or indemnity by one tortfeasor against the others. It is greatly to the plaintiff's advantage to show that he has suffered the same, indivisible harm at the hands of a number of defendants for he thereby avoids the risk, inherent in cases where there are different injuries, of finding that one defendant is insolvent (or uninsured) and being unable to execute judgment against him. The question of whether there is one injury seems to be approached in a fairly pragmatic way. The simplest case is that of two virtually simultaneous acts of negligence, as where two drivers behave negligently and collide, injuring a passenger in one of the cars or a pedestrian, but there is no requirement that the acts be simultaneous. Thus, if D1, driving too fast in icy conditions causes his lorry to 'jackknife' across the motorway and D2, also driving too fast, later comes along and trying to avoid the obstruction, runs down P, assisting at the scene, both D1 and D2 are liable for P's injuries. If, however, P's car had been damaged by a collision with D1's lorry before the arrival of D2 on the scene then D1 alone would be responsible for that loss. By statute, though not at common law, one defendant may recover a contribution or indemnity from any other defendant liable in respect of the same damage, but that is a matter between the defendants and does not effect the plaintiff, who remains entitled to recover his whole loss from whichever defendant he chooses.
+(Emphasis added)
+18. In Clerk and Lindsell on Torts, 14th Edn., at page 112, under the heading 'Joint and Several Torts' I find the following statement of law:
+Where damage is caused as the result of torts committed by two or more tortfeasors, the tortfeasors may be (1) joint tortfeasors, (2) several tortfeasors causing the same damage or (3) several tortfeasors causing different damage. If one of a number of joint tortfeasors, or of several tortfeasors causing the same damage, is sued alone, he is liable for the whole damage, though he did but a small part of it. In the case of several tortfeasors causing different damage, on the other hand, each is liable only for the damage which he has caused.
+19. In Salmond on Torts, 15th Edn., at page 593, it is stated as hereunder:
+... 'If a number of persons jointly participate in the commission of a tort, each is responsible, jointly with each and all of the others, and also severally, for the whole amount of the damage caused by the tort, irrespective of the extent of his participation'. That is to say, the person injured may sue any one of them separately for the full amount of the loss; or he may sue all of them jointly in the same action, and even in this latter case the judgment so obtained against all of them may be executed in full against any one of them. If the tortfeasors were independent or separate 'the person damnified might sue them one by one and recover from one alone or from such as he chose to execute judgment against, provided that he did not recover more than the greatest sum awarded or, against any defendant, more than was awarded in the action against him'.
+20. The Division Bench after having noticed the above authorities, found it difficult to agree with the law
+laid down in
+Reny Mammen
+'s case that in the case of an accident caused by the composite negligence of drivers of two or more vehicles, the injured or the legal representatives of the person who died in the accident cannot claim the entire compensation from any one of the several tortfeasors.
+21. Coming to the second ground, the Division Bench had observed that
+Section 110-B
+of the Motor Vehicles Act, 1939 which is incorporated in
+Section 168(1)
+of the Motor Vehicles Act, 1988, does not purport to modify the liability under the law of Torts. In the order under reference, it has been observed that:
+There may be cases where out of the total compensation fixed the amount payable by the insurer is less as per the terms of the policy, in which event the amount to be paid by the insurer and the amount to be paid by the owner and driver would be different. In such cases the amounts payable by the insurer and owner may have to be specified. There may be cases, where the insurer and the owner may not be liable to pay the compensation but only the driver is liable. There may be cases where the driver, owner and insurer of a vehicle would each jointly and severally be liable to pay the entire compensation. Section 110-B appears to cover all these contingencies.
+In
+Reny Mammen
+'s case , the decision of the Punjab & Haryana High Court in
+Narinderpal Singh v. Punjab State
+1989 ACJ 708 (P&H), is cited in support of the view that Section 110-B indicates that in a case arising out of an accident involving two or more vehicles, the liability of each set of driver, owner and insurer of the vehicles to pay the compensation should be apportioned depending on the extent of the negligence of the driver concerned which contributed to the accident. But in that decision itself, it has been made clear that apportionment is only for the purpose of inter se liability of the two vehicles found negligent and that determination has no effect on the claimant because in law he is entitled to recover the entire amount jointly and severally. There does not seem to be anything in Section 110-B of the 1939 Act or
+Section 168(1)
+of the 1988 Act to indicate that by that provision a departure is intended to be made from the common law of Torts under which where several tortfeasors cause the same damage to a person the latter is entitled to seek the compensation from any one of them or all of them.
+(Emphasis added)
+22. The extracts from various celebrated textbooks on torts as quoted above, on a close examination reveal that the propositions founded therein regarding right of the sufferer to recover compensation and the corresponding obligations of the joint or composite tortfeasors causing the same damage are based on common law enunciated by the English Courts.
+23. In Black's Law Dictionary, 5th Edn., the source and import of common law has been traced as under:
+'Common Law'-As distinguished from law created by the enactment of legislatures, the common law comprises the body of those principles and Rules of action, relating to the Government and security of persons and property, which derive their authority solely from usages and customs of immemorial antiquity, or from the judgments and decrees of the courts recognising, affirming, and enforcing such usages and customs; and, in this sense, particularly the ancient unwritten law of England.
+24. But as repeatedly held by the Apex Court, one has to be cautious in applying the common law evolved by English courts to the Indian legal settings which is more governed by its statutory provisions enacted by striking a balance between the said principles and its usefulness in the context of Indian needs of imparting justice to its masses, majority of which are unlearned in law and its legal technicalities, but are in dire need of getting expeditious justice to be adjudged in the background of the peculiar Indian social set up coupled with its long social and cultural heritage. It is often realised that this country cannot any more afford to sacrifice the cause of substantial justice on procedural technicalities or the doctrine of locus standi.
+25. "The adoption of the Rules of English law by the Indian courts", observes M.C.Setalwad in his 'Common Law in India' (The Hamlyn Lectures, 12th Series, page 53), "was neither automatic nor uncritical". Although they started with a presumption that a rule of English law would be in accordance with the principles of justice, equity and good conscience, they bore in mind the reservation which was later expressed by the Privy Council in the words "if found applicable to Indian society and circumstances".
+26.
+In the case of
+Gujarat State Road Trans.Corporation v. Ramanbhai Prabhatbhai
+1987 ACJ 561 (SC), para 4, it has been held by the Supreme Court as well that:
+On account of the close association which came to be established between India and Great Britain owing to the British rule which lasted for over two centuries, in the High Courts established in India the English common law which was based on principles of justice, equity and good conscience came to be applied wherever they were called upon to award damages or compensation for civil wrongs committed by the defendants in the suits. The application of the English common law, however, had to conform to Indian circumstances and conditions which necessarily involved a selective application of the English law in India.
+27.
+In the case of
+Commissioner of Agricultural Income Tax, West Bengal v. Keshab Chandra Mandal
+, , it has been held that:
+There is no doubt that the true rule as
+laid down in
+judicial decisions and indeed as recognised by the High Court in the case before us is that unless a particular statute expressly or by necessary implication or intendment excludes the common law rule, the latter must prevail. It is, therefore, necessary in this case to examine the Act and the Rules to ascertain whether there is any indication therein that the intention of the legislature is to exclude the common law rule.
+28. Therefore, it has to be taken as settled that in case of conflict, statute law will have the precedence over the common law created by the courts. Keeping in view the limitations of applying English common law principles as noticed above, in the present appeal, I have to consider the rights and obligations of the perspective parties in the context of the statutory provisions contained in
+Section 110-B
+of the Motor Vehicles Act, 1939 (in short the 'old Act') and
+Section 168
+of the Motor Vehicles Act, 1988 (in short the 'new Act'). Accordingly, the question involved herein has to be answered by considering the statutory provisions in a reasonable and pragmatic manner with the caution that such interpretation may not result in violation of
+Article 14
+of the Constitution of India which mandates that apart from legislative and executive acts even the judicial discretion cannot be exercised in a discriminatory or unreasonable manner.
+29. Bearing the said principles in the mind, let me examine the scheme envisaged under the Act for resolving accident claims cases.
+Sections 110
+to
+110-F
+of the Act were substituted for the former
+Section 110
+by the
+Motor Vehicles (Amendment) Act, 1956
+with effect from 16.2.1957 providing a more effective machinery for adjudication and recovery of claims arising out of the motor accidents involving death of, or bodily injury to, persons and damages to any property of a third party or both. The scheme envisaged in these sections provide a complete code for satisfaction of tort liabilities arising out of the use of motor vehicles to the exclusion of civil courts. The statement of objects and reasons for incorporating the said provisions reads thus:
+Objects and Reasons:
+Sections 110
+to 110-F.-Under the existing
+Section 110
+, powers to appoint persons to investigate and report on motor accidents have been given to State Governments but the officers so appointed are not empowered to adjudicate on the liability of the insurer or on the amount of damages to be awarded, except at the express desire of the insurance company concerned. This provision has not helped persons of limited means in preferring claims on account of injury or death, because a court decree has to be obtained before the obligation of an insurance company to meet claims can be enforced. It is, therefore, proposed to empower State Governments to appoint Motor Accidents Claims Tribunals to determine and award damages.
+30.
+Section 110
+of the Act, as substituted by the Amendment Act, 1956 provides for constitution of Motor Accidents Claims Tribunal, Sub-section (1) thereof, which is relevant for the present purpose reads thus:
+110. Claims Tribunal.-(1) A State Government may, by notification in the Official Gazette, constitute one or more Motor Accidents Claims Tribunals (hereinafter referred to as Claims Tribunals) for such area as may be specified in the notification for the purpose of adjudicating upon claims for compensation in respect of accidents involving the death of, or bodily injury to, persons arising out of the use of motor vehicles, or damages to any property of a third party so arising, or both.
+31. No doubt, as held by the Supreme Court in the case of
+Union of India v. United India Insurance Co. Ltd.
+, the Tribunal constituted under
+Section 110 (1)
+is an alternative forum in substitution of civil courts for adjudication upon the claims for compensation arising out of the 'use of motor vehicles' and that the claim for compensation is maintainable before the Tribunal against the persons or agencies which are held to be guilty of composite negligence or joint tortfeasors but as it would be presently found, the right of the claimant for compensation and the corresponding duty cast on the Tribunal are circumscribed by various checks and limitations which directly tells upon various common law principles enunciated in English textbooks on torts
+referred to above
+.
+32. The questions referred to this Full Bench as noticed in the opening para of this judgment primarily concerns the right of a claimant to recover compensation from any one of the joint or composite tortfeasors at his will and option, thereby exonerating the other tortfeasors at his whim, compassion, conviction or any other consideration like some manoeuvrings or manipulations with one or the other tortfeasor. Such a right might have been conceded to a claimant under the English common law, but the paramount question of great public importance is as to whether in view of the codified statutory law engrafted under
+Sections 110
+to
+110-F
+of the Act, such a right still subsists in the Indian context?
+33. For examining the said question, I may straightaway refer to
+Section 110-A
+of the Act which mandates the applicant/ claimant to file an application in the prescribed form setting out certain particulars and informations. As provided under
+Section 111-A
+of the Act, the form of application has been prescribed under the Karnataka Motor Vehicles Rules, 1963 (in short the 'State Rules') which, inter alia, requires that the applicant-claimant should disclose the details of the vehicle involved in the accident as also the names of its driver, owner and the insurer. I may usefully reproduce Sub-section (1) of Section 110-A and
+Section 111
+-
+A of the Act
+which read thus:
+Section 110-A. Application for compensation.-(1) An application for compensation arising out of an accident of the nature specified in Sub-section (1) of
+Section 110
+may be made-
+(a) by the person who has sustained the injury; or
+
+(aa) by the owner of the property; or
+(b) where death has resulted from the accident, by all or any of the legal representatives of the deceased; or
+(c) by any agent duly authorised by the person injured or all or any of the legal representatives of the deceased, as the case may be:
+Provided that where all the legal representatives of the deceased have not joined in any such application for compensation, the application shall be made on behalf of, or for the benefit of, all the legal representatives of the deceased and the legal representatives who have not so joined, shall be b2 impleaded as respondents to the application.
+(2) XXX XXX XXX
+
+111-A. Power of State Government to make Rules.-A State Government may make Rules for the purpose of carrying into effect the provisions of
+Sections 110
+to 110-E, and in particular, such Rules may provide for all or any of the following matters, namely-
+(a) the form of application for claims for compensation and the particulars it may contain; and the fees, if any, to be paid in respect of such applications;
+(b) the procedure to be followed by a Claims Tribunal in holding an enquiry under this Chapter;
+(c) the powers vested in a civil court which may be exercised by a Claims Tribunal;
+(d) the form and the manner in which and the fees (if any) on payment of which, an appeal may be preferred against an award of a Claims Tribunal; and
+(e) any other matter which is to be, or may be, prescribed.
+34. In Chapter VII of the 'State Rules', which is titled as 'Motor Accidents Claims Tribunal Rules', Rules have been framed by the State Government under the above legislative delegation. Rules 343, 346, 347, 356, 357 and 359 are relevant for the present case, which read thus:
+343. Applications.-Every application for payment of compensation made under Section 110-A shall be made in Form No. 82 Comp. appended to these Rules and such an application may be presented to the Tribunal by the applicant either in person or through an authorised agent or an advocate.
+346. Notice to parties involved.-The applicant shall pay in the form of court fee stamps, a process of one rupee for each respondent, for service of notice and thereafter the Claims Tribunal shall send to the owner of the motor vehicle involved in the accident and its insurer, a copy of the application together with a notice of the date on which it will hear the application, and may call upon the parties to produce on that date any evidence which they may wish to tender.
+347. Appearance and examination of parties.-(1) The owner of the motor vehicle and the insurer may, and if so required by the Claims Tribunal shall, at or before the first hearing or with such further time as the Claims Tribunal may allow, file a written statement dealing with the claim raised in the application, any such written statement shall form part of the record.
+(2) If the owner or the insurer contests the claim, the Claims Tribunal may, and if no written statement has been filed, it shall proceed to examine the owner and the insurer upon the claim and shall reduce the substance of the examination to writing.
+356. Framing of issues.-After considering any written statement, the evidence of the witness examined and the result of any local inspection, the Claims Tribunal shall proceed to frame and record the issues upon which the right decision of the case appears to it to depend.
+357. Determination of issues.-After framing the issues, the Claims Tribunal shall proceed to record evidence thereon which each party may desire to produce.
+359. Judgment and award of compensation.-(1) The Claims Tribunal in passing orders shall record concisely in a judgment the findings on each of the issues framed and the reasons for such findings and make an award specifying the amount of compensation to be paid by the insurer and also the person or persons to whom compensation shall be paid.
+(2) Where compensation is awarded to two or more persons, the Claims Tribunal shall also specify the amount payable to each of them.
+35. According to rule 343 of the 'State Rules', the application for payment of compensation under
+Section 110-A
+of the Act has to be in Form 82, requiring the claimant to, inter alia, set out the following informations:
+FORM 82 
+ (See Rule 343)
+
+An application for compensation arising out of motor accident
+ xxx xxx xxx
+14. Registration number and the type of the vehicle involved in accident.
+15. Name and address of the owner of the vehicle.
+16. Name and address of the insurer of the vehicle.
+36. It would be relevant to notice here that as per
+Section 13(2)
+of the General Clauses Act, 1897, in all Central Acts including the Rules framed thereunder, the words in the singular shall include the plural, and vice versa. Therefore, the words and expressions, namely, 'vehicle', 'driver', 'claimant' and 'insurer' used in
+Sections 110
+to
+110-F
+of the Act and the 'State Rules' will in the case of accident involving more than one vehicle have to be read as 'vehicles', 'drivers', 'claimants' and 'insurers'.
+37. From the above provisions, it is clear that for adjudication of the claim for compensation, either all the claimants should join hands or they should be impleaded as respondents. This provision has been obviously made to avoid multiplicity of proceedings concerning the same death or bodily injury or damage to the same property. The provisions further show that Parliament has not left it open to the applicant-claimant to implead one or the other tortfeasor may be joint, several or composite and to keep others away from the adjudicating process. Because, even in the case of accident involving more than one vehicle, he has to necessarily disclose the registration number of all such vehicles as also the names of owners and insurers thereof. Further, on receipt of application in Form 82
+referred to above
+, as required under rule 346 of the 'State Rules', it will be the duty of the Tribunal to send a notice of the date on which it will hear the application affording them an opportunity to adduce evidence in support of their defence. This is further clear from
+Section 110-C
+of the Act, in Sub-section (2-A) whereof, it has been made mandatory on the part of the Tribunal to necessarily implead insurer in case it finds collusion between the person making claim and the person against whom the claim is made or in case the latter abstains from contesting the claim.
+38. Therefore, a bare reading of the present statutory provisions clearly demonstrate that the same has been articulated by the legislature itself in such a manner that the claimant, even if he so wants and at the detriment of one or the other tortfeasor, cannot be permitted to wield the sword of his discretion to proceed against a particular tortfeasor to suit his convenience or connivance. Consequently, it has to be held that for adjudicating the claim for compensation under the provisions of the Act, all claimants and all the tortfeasors including their insurers, have to be necessarily made parties before the Claims Tribunal for determination of their respective rights and liabilities. If, despite notice one opts to keep away, he will be doing so at his own peril, risking an adverse order against him. This view has been taken by me on a pure interpretation of statutory provisions, the scheme inherent therein and the governing public policy, namely, avoidance of multiple litigations/proceedings for the same cause and expeditious disposal of compensation claims in presence of all concerned.
+39. To my mind, there can be other persuasive reasons as well to support the view taken by me as above. To illustrate this aspect by a concrete example, if, in a given case, grievous injuries are sustained by a person because of accident taking place between a luxury car and a two-wheeler, wherein the Tribunal as of fact finds that the driver/rider of the two-wheeler had contributed 5 per cent or 10 per cent negligence and compensation is quantified at Rs. 1,00,000 still can it be left open to the damage seeker to recover the entire amount from the owner of the two-wheeler. If the law as enunciated by Treaties on Torts is accepted as a good law, then in my opinion, it will immediately attract the curse of
+Article 14
+of the Constitution of India, because any such option given to the damage seeker will not only be discriminatory but it will also lead to harsh and unreasonable results.
+40. On the other hand, in case of composite or several joint tortfeasors, if it is made mandatory or the part of the Tribunal to specify the amount of compensation payable by each of such tortfeasors to the extent of their contributory negligence as found on facts, then it will not only be in consonance with
+Article 14
+of the Constitution of India but it will also be most equitable, reasonable and consistent with the statutory provisions. It may be that in some cases, the damage seeker may not be able to recover the damages awarded against a particular tortfeasor because of bankruptcy or otherwise of such person but in my opinion that itself cannot be a ground for fastening his liability around other's neck who can be easily caught. Any such interpretation of law cannot be accepted as governed by rule of law and reason. Apart from this, there may be cases, where damage seeker may not be able to recover compensation for want of solvency or traceability of a single tortfeasor as well. In such a case, can it be held that since the amount of compensation has been awarded by the Tribunal, therefore, the court must see to it that he receives the same by hook or by crook from anybody whether liable or not liable or from the coffer of the State. In my opinion, the liability and the prospect of its recovery should be kept apart in construing the provisions relating to composite or several tortfeasors.
+41. The above view of mine will also mitigate the apprehensions expressed by the Division Bench of this court in
+Reny Manxmen
+'s case , according to which the claimants exercising their rights to proceed against, a particular tortfeasor are playing havoc with the public revenue to benefit private owners. It has been observed therein that exercise of such a right is leading to unjust results. It has been noticed in the judgment that:
+For instance, in cases where the rash and negligent driving of a vehicle belonging to the Government or a public sector undertaking and a vehicle belonging to a private individual was the cause for an accident, there is every likelihood of collusion or compromise between the claimant and the owner of the private vehicle whereby the claimant agrees to receive smaller amount and not to proceed against him, for, it would be in addition to the whole of the compensation which the claimant could recover even by proceeding only against the State or the public sector undertaking concerned and collecting the entire amount from them. The learned counsel for theCorporation submitted that it has actually so happened in many cases and as a result theCorporation has not been in a position to recover from the concerned private owner, his share of the liability.
+42. Next, coming to the powers and duties of the Tribunal as embodied under
+Section 110-B
+of the Act, the same become glaring on reading of the said section itself which is to the following effect:
+110-B. Award of the Claims Tribunal.-On receipt of an application for compensation made under Section 110-A, the Claims Tribunal shall, after giving the parties an opportunity of being heard, hold an inquiry into the claim or, as the case may be, each of the claims and, subject to the provisions of Section 109-B, may make an award determining the amount of compensation which appears to it to be just and specifying the person or persons to whom compensation shall be paid; and in making the award the Claims Tribunal shall specify the amount which shall be paid by the insurer or owner or driver of the vehicle involved in the accident or by all or any of them, as the case may be.
+xxx xxx xxx
+43. Section 110-B as quoted above, mandates the Tribunal for making an award which should contain the following:
+(i) the amount of compensation which appears to it to be just;
+(ii) specification of person/persons to whom compensation has to be paid; and
+(iii) specification of the amounts which shall be paid by the insurer or owner or driver of the vehicle involved in the accident or by all or any of them as the case may be.
+44. The aforesaid specifications have to be made by the Tribunal as provided in
+Section 110-B
+of the Act, after giving all the parties an opportunity of hearing by issuing notice to them in terms of rule 346 of the State Rules.
+45. So far as the determination of the amount of compensation is concerned, the same has to be determined on the basis of the issues framed by the Tribunal under rule 356 of the State Rules. Similarly, the Tribunal has to necessarily specify the person or persons to whom the compensation will be payable, which will as well include the quantification of amounts payable to them.
+46. Now I come to the third mandate against the Tribunal in making the award which is more material for the present purpose. This requirement (in case of more than one tortfeasor) mandates the Tribunal to specify the amount which will have to be paid by the insurers or owners or drivers of the vehicles involved in the accident or by all or any of them as the case may be. This provision has been made by the legislature keeping in mind that any accident involving more than one vehicle either the drivers of the vehicles and consequently their owners may be found liable for compensation and, therefore, insurers subject to existence of insurance policy and the conditions embodied therein may or may not be liable and if liable what will be extent of liability.
+47. Mr. A.K. Bhat, learned counsel appearing for the appellant, has next contended that in case of accident involving more than one vehicle making the drivers, owners or insurers of the vehicles as composite tortfeasor, is held to be the duty of the Tribunal to apportion their liabilities depending on the extent of their negligence which has contributed to the common damage, still it can have no effect on the claimant's right to recover the whole compensation from one set of joint tort-feasors since it will be always open for such tortfeasors to realise from the other tortfeasors to the extent of their liability. In my considered opinion, this plea which has been based on common law principles of torts has now no place in tort remedies based on statutory provisions under consideration. This aspect has become abundantly clear if one closely examines the statutory provisions contained in
+Sections 110-E
+and
+110-F
+of the Act, which are to the following effect:
+110-E. Recovery of money from insurer as arrear of land revenue.-Where any money is due from any person under an award, the Claims Tribunal may, on an application made to it by the person entitled to the money, issue a certificate for the amount to the Collector and the Collector shall proceed to recover the same in the same manner as an arrear of land revenue.
+110-F. Bar of jurisdiction of civil courts.-Where any Claims Tribunal has been constituted for any area, no civil court shall have jurisdiction to entertain any question relating to any claim for compensation which may be adjudicated upon by the Claims Tribunal for that area, and no injunction in respect of any action taken or to be taken by or before the Claims Tribunal in respect of the claim for compensation shall be granted by the civil court.
+48.
+Section 110-F
+of the Act as noticed above clearly provides that after constitution of the Claims Tribunal under
+Section 110
+of the Act, no civil court has jurisdiction to entertain any question relating to any claim for compensation which may be adjudicated upon by the Tribunal. Under
+Section 110-B
+of the Act as discussed above the Tribunal while disposing of an application for compensation filed by a claimant has a duty to specify the amount which shall be paid by the insurer, owner or driver of the vehicle involved in the accident either jointly or severally depending on the facts found by the Tribunal on the basis of the evidence brought before it. Therefore, the extent of liability of the insurer, driver or owner of each vehicle has to be determined and specified by the Tribunal. For specification of respective liability of the tortfeasors, the Tribunal has to frame an issue and decide the same after hearing the claimant as well as the respective tortfeasors. That being so, the decision on this aspect will be a question relating to any claim for compensation which the Tribunal will be duty bound to adjudicate upon. As such, no action for ascertainment of contribution of the respective tortfeasors or for recovery of their share of compensation can be brought before the civil court.
+49. Apart from above, the separate tortfeasors cannot even at a subsequent stage file any application before the Tribunal for apportioning the compensation amongst them based on their contribution to the damage caused or for recovery thereof from any of them. The irresistible conclusion therefore is that all the questions regarding quantification of compensation to which the claimant is entitled and in case of more than one tortfeasor, may be joint/several/composite, the extent of their liability, based on the extent of their negligence in contributing to common damage, has to be adjudicated and decided by the Tribunal in the same proceeding initiated on the basis of the application filed under
+Section 110-A
+of the Act.
+50. Now coming to the right of recovery of the claim, Section 110-E as extracted above clearly provides that in case a person is held liable to pay any part of the compensation, then the claimant, to the extent of his entitlement, can make an application for issuance of certificate for recovery of the amount to the Collector so that it can be recovered as arrears of land revenue. Therefore, under the scheme of the Act, claimant can proceed to recover from any person only that amount in terms of money as has been determined to be payable by him and falling due for recovery from him. The law does not permit the claimant to recover the entire amount of compensation at his option and choose any particular tortfeasor, out of several tortfeasors, despite the fact that the Tribunal does not hold them jointly and severally liable.
+51. For the aforesaid reasons, I find myself in absolute agreement with the view taken by the Division Bench of this court in
+Reny Mammen
+'s case , and hold that in the case of motor vehicle accident caused due to composite negligence of the drivers of two or more vehicles, the person who is injured or the legal representatives of a deceased can recover only that part of compensation from each set of driver, owner or insurer which is proportionate to the quantum of negligence of that driver, who contributed to the accident.
+P. Vishwanatha Shetty, J.
+52. I have had the advantage of reading in draft the judgment of my respected learned Brother Mr. Justice Bharuka. However, I regret very much for my inability to persuade myself to subscribe to the views expressed by him in his judgment, for the reasons which I shall presently state.
+53. The appellant, in this appeal, is a victim, who has sustained certain injuries, in an unfortunate accident in which there was a collision between a truck bearing registration No. MED 7457, in which he was travelling and another truck bearing registration No. CAA 2978, which came from the opposite direction.
+In this appeal, he has called in question the correctness of the judgment and award made by the Motor Accidents Claims Tribunal, Bangalore Rural District (hereinafter referred to as 'the Tribunal') awarding compensation of Rs. 35,000 only with interest at the rate of 6 per cent per annum from the date of the petition till the date of deposit, as against the claim of Rs. 1,50,000 made by him and directing the owner of the truck in which he was travelling to pay 70 per cent of the compensation awarded and the owner and insurer of the other truck to pay the remaining 30 per cent of the compensation, after apportioning the negligence of the two drivers of the trucks which resulted in the accident in that ratio.
+54. One of the grounds urged by the appellant in the appeal is that since the finding recorded by the Tribunal estabgence of the drivers of the two trucks, on account of which the accident in question had occurred, the appellant is entitled to recover the whole of the compensation from either the owner of the truck in which he was travelling, or from the owner and insurer of the truck bearing registration No. CAA 2978; and the Tribunal has erred in restricting his claim against the owner and insurer of the truck bearing registration No. CAA 2978 only to the extent of 30 per cent of the compensation. The Division Bench of this court (M. Ramakrishna, J. as he then was and 5. Venkataraman, J.), while found themselves unable to subscribe to the view expressed by the Division Bench of this court in the case of
+Karnataka State Road Trans.Corporation v. Reny Mammen
+and also in view of the fact that the law
+laid down by
+this court in the case of
+Reny Mammen
+(supra) is in conflict with the views expressed by this court in the case of A. Shivarudrappa v. General Manager, Mysore Road Trans.Corporation 1973 ACJ 302 (Mysore), and also in the case of Rama Bai v. //. Mukunda Kamath 1986 ACJ 561 (Karnataka), referred the two questions mentioned hereunder to the Full Bench:
+Whether in a case of a motor vehicle accident caused due to the composite negligence of the drivers of two or more vehicles, the person who is injured or the legal representatives of a person who is killed in such an accident, is/are entitled to claim the entire compensation from all or any of the drivers, owners and insurers of the vehicles involved in the accident?
+OR
+
+Whether in such a case the injured or the legal representatives of the deceased can recover only that part of compensation from each set of driver, owner or insurer which is proportionate to the quantum of negligence of that driver, which contributed to the accident?
+55. In the case of Reny Mammen , this court (Rama Jois, J., as he then was and Rajasekhara Murthy, J.) took the view that in the case of a motor accident which takes place on account of rash and negligent driving of more than one vehicle by the drivers of the respective vehicles, causing death of or injury to a person, it will be a case of different injuria, i.e., tortious act of each of the drivers producing the same damnum, i.e., damage, and the drivers of the two vehicles would be several tortfeasors; and each one of them is a separate and distinct tortfeasor answerable for damages to the extent of his negligence; and therefore, entire compensation cannot be claimed by the injured or the legal representatives of the deceased from each one of the drivers, owners and insurers jointly and severally. In the said decision, this court further held that even on interpretation of
+Section 110-B
+of the Motor Vehicles Act, 1939 (hereinafter referred to as 'the Act'), that
+Section 110-B
+of the Act requires the Tribunal to fix the liability of each and every person in respect of the payment of compensation to a person injured or to the legal representatives of the person, who died in the accident and the Tribunal is under a plain duty to apportion the liability between the drivers, owners and insurers of each of the vehicles involved in an accident in which more than one vehicle caused the accident; and, therefore, the liability of the driver, owner and insurer of each of the vehicles is not joint and several. In the said decision, at paras 19, 20 and 22, the court has observed thus:
+If we apply the above principle to the case of a motor accident, which takes place on account of rash and negligent driving of more than one vehicle by the drivers of the respective vehicles, causing death of or injury to a person, it would be a case of different injuria, i.e., tortious act of each of the drivers producing the same damnum, i.e., damage. It is a case of coincidence of tortious acts or negligence of more than one person resulting in a single damage to a third party which gives rise to the claim for compensation. They would be several tortfeasors, for, there was no concurrence or community of design among them. To put it differently, the damage caused was as a result of collision and not coalition. Therefore, each one of them is a separate and distinct tortfeasor answerable for damages to the extent of his negligence...
+But is that the position in the case of a motor accident which takes place on account of rash and negligent driving of more than one vehicle by the respective drivers of the vehicles. It is not a case of concerted or joint action on the part of the drivers/owners concerned, with consent or co-operation as between/ among them, though it results in single damage to a third party. In such a case they are really several tortfeasors and, therefore, the liability of the drivers has to be to the extent of negligence of each one of the drivers and, therefore, he is answerable to the claim only to that extent and not more and constitutes the vicarious liability of his master/owner of the vehicle, if any, also in the same proportion. The liability of one cannot be foisted on the other.
+From the above conclusion, it follows that, in a motor accident resulting from rash and negligent driving of more than one vehicle, the drivers of all the vehicles are several tortfeasors, whose separate and independent act of rash and negligent driving of the respective vehicles, resulted in a common harm or injury and from this it logically fallows that it becomes the duty of the Tribunal to record a finding regarding proportion of negligence and apportion the compensation awarded on that basis and specify the liability of each set of the parties, namely, the driver, owner and insurer of each of the vehicles separately.
+The court, after referring to and examining
+Section 110-B
+and other provisions of the Act and the Motor Vehicles Rules, 1963 (hereinafter referred to as 'the Rules'), and also after referring to the Division Bench decision of the Punjab and Haryana High Court in the case of
+Narinderpal Singh v. Punjab State
+1989 ACJ 708 (P&H), wherein the Punjab and Haryana High Court, in a case in which the drivers of more than one motor vehicle on account of their rash and negligent driving of respective vehicles caused an accident, which gives rise to a claim for compensation, had held that they (the drivers) were joint tortfeasors and their liability was joint and several and after extracting the discussion made by the Punjab and Haryana High Court with regard to the interpretation laid by the said court on
+Section 110-B
+of the Act, at para 24, observed as follows:
+We are in respectful agreement, as to the scope and purpose of
+Section 110-B
+of the Act, though we have preferred to take the view that in such a case the drivers of the vehicles involved are several tortfeasors. According to the above view, even on the basis that they are joint tortfeasors
+Section 110-B
+mandates the Tribunal not only to fix the proportion of negligence but also to apportion the compensation awarded. Further, it is necessary to note that the provisions in
+Chapter VIII of the Act
+and in particular
+Sections 110-A
+and
+110-B
+are not merely procedural provisions meant to enforce the pre-existing substantive law relating to claims for compensation for injury caused by motor accident, but they also incorporate substantive provisions which create new rights, obligations, powers and remedies as held by the Supreme Court in
+Gujarat State Road Trans.Corporation v. Ramanbhai Prabhatbhai
+1987 ACJ 561 (SC). The relevant portion of the judgment of Venkataramiah, J. (as he then was) reads:
+These provisions are not merely procedural provisions. They substantively affect the rights of the parties. As the right of action created by the
+Fatal Accidents Act, 1855
+, was 'new in its species, new in its quality, new in its principles, in every way new' the right given to the legal representatives under the Act to file an application for compensation for death due to a motor vehicle accident is equally new and an enlarged one. This new right cannot be hedged in by all the limitations of an action under the
+Fatal Accidents Act, 1855
+. New situations and new dangers require new strategies and new remedies.
+Therefore, in our view, having regard to the real scope of the power of the Tribunal, the correct view to be taken is, the Tribunal should award the compensation against each set of the drivers, owners and insurers separately, particularly in view of the bar to the jurisdiction of the civil courts under
+Section 110-Fof
+the Act.
+However, the Division Bench of this court in the case of A. Shivarudrappa 1973 ACJ 302 (Mysore), after referring to the decision of this court in the case of K. Narayana Karanth v. Shankar Vittal Motor Co. Ltd. 1963 Mys LJ Supp 368, has taken the view that when an accident takes place on account of the negligence of the drivers of two vehicles, such an accident must be held as an accident caused by the composite negligence of drivers of both the vehicles and in such cases, the liability of the drivers of both the vehicles and their masters and insurers was joint and several; and, therefore, it is open to the claimant to bring an action for damages against both or either of the drivers or his masters. At para 10 of the said judgment, the court has stated thus:
+In K. Narayana Karanth v. Shankar Vittal Motor Co. Ltd. 1963 Mys LJ Supp 368, the following statement of law in Salmond on Torts, 13th Edn., at p. 97, was quoted:
+If a number of persons jointly participate in the commission of a tort, each is responsible, jointly with each and all of the others, and also severally for the whole amount of the damage caused by the tort, irrespective of the extent of his participation. That is to say, the person injured may sue any one of them separately for the full amount of the loss; or he may sue all of them jointly in the same action, and even in this latter case the judgment so obtained against all of them may be executed in full against any one of them. If the tortfeasors were independent or separate, the person damnified might sue them one by one and recover from one alone or from such as he chose to execute judgment against provided that he did not recover more than the greatest sum awarded or, against any defendant, more than was awarded in the action against him.
+In view of the aforesaid position of law, the liability of both the drivers and their masters was joint and several. It was open to the appellant to bring an action for damages against both or either of the drivers or his master. The view taken by the Tribunal that the appellant's claim for compensation should fail because, neither the driver nor owner of the lorry was impleaded as party to the petition, is clearly unsustainable.
+56.
+In the case of
+Rama Bai v. H. Mukunda Kamath
+1986 ACJ 561 (Karnataka), the Division Bench of this court (Kulkarni and Laxmeshwar, JJ.), after elaborately discussing the law relating to contributory and composite negligence, has taken the view that if, on account of the negligence of the drivers of two vehicles, an accident takes place, such a case must be considered as a case of composite negligence and not a case of contributory negligence, and in the case of composite negligence, the driver, owner and insurer of every vehicle would be liable to pay the entire amount of compensation. Further, in the said case, the apportionment of the amount of compensation between the drivers and owners of the two vehicles in the ratio of 50:50 was set aside and liberty was given to the claimant to recover the entire amount of compensation from the owner, driver and insurer of the bus or from the owner, driver and insurer of the truck or from any one of them. At paras 13 and 16 of the judgment, the court has observed thus:
+In the case of two vehicles grazing each other, the question of contributory negligence, so far as the claimant is concerned, does not arise at all. 'Composite negligence' means concurrent negligence of the drivers of both the vehicles. In Beaudry v. Kiess 1968 ACJ 34 (SC, Canada), the Supreme Court of British Columbia, Canada held that if as a result of two vehicles dashing against each other a third party sustains the accident, it will not be a case of contributory negligence, but, it would be a case of composite negligence. It has been made clear in the said case that if the collision is a result of concurrent negligence of two vehicles it would be a case of composite negligence to which the victim will not be a party at all.
+Similar is the decision laid down in
+Krishnaswami v. Narayanan
+, AIR 1939 Madras 261; A. Shivarudrappa v. General Manager, Mysore Road Trans.Corporation 1973 ACJ 302 (Mysore); Manjula Devi Bhuta v. Manjusri Raha 1968 ACJ 1 (MP); Sushila Rani Sharma v. Som Nath 1974 ACJ 505 (P&H); and
+Parsani Devi v. State of Haryana
+1973 ACJ 531 (P&H).
+XXX XXX XXX
+
+Thus, where a person is injured without any negligence on his part but as a combined effect of the negligence of two other persons, it is not a case of contributory negligence but is a case of composite negligence. The question of contributory negligence would arise where the plaintiff by his own conduct also had contributed to the negligence. But, if the claimant is injured as the result of the negligence of two wrongdoers B&C, it is a case of composite negligence but not a case of contributory negligence. In composite negligence, wrongdoers are other than the injured or the deceased person and he does not contribute to the events leading to the accident which results in injuries or even death.
+Again, at para 27, the court has observed thus:
+...Therefore, the trial court was justified in limiting the liability of respondent No. 2 to Rs. 5,000 only. So far as regards the Oriental Insurance Co. Ltd. which has insured the lorry is concerned, the liability is unlimited. As it is a case of composite negligence every vehicle would be liable to pay the entire amount of compensation. Therefore, there is no question of contribution or apportionment between them at all [vide Manjula Devi Bhuta v. Manjusri Raha 1968 ACJ 1 (MP), paras 49 and 50]. The trial court, in our opinion, committed an error in apportioning the amount at 50:50 between the bus and the lorry. Claimant is at liberty to recover the amount of compensation from the owner and driver and insurer of the bus and from the owner and driver of the lorry and the insurance company of the lorry or from any one of them..."
+(Emphasis supplied) 
+
+The Division Bench while making the order of reference to the Full Bench, after referring to the common law doctrine and liability of joint tortfeasors, as referred to by various well-known authors and also the decisions of this court in
+Reny Mammen
+'s case ; A. Shivarudrappa's case (
+supra) and Rama Bai
+'s case (supra), at para 15, has observed that they were not in agreement with the proposition of law
+laid down in
+Reny Mammen
+'s case (supra). It is useful to refer to the said observations made by the court, which read as follows:
+In view of the position of law, as stated in the above authorities and also in the earlier two decisions of this court, we find it difficult to agree with the proposition
+laid down in
+Reny Mammen
+'s case (supra), that in the case of an accident caused by the composite negligence of drivers of two or more vehicles, the injured or the legal representatives of the person who died in the accident, cannot claim the entire compensation from any one of the several tortfeasors.
+57. Now, in the light of the conflicting views expressed by this court, let me examine the correct legal position of law with regard to the questions referred to the Full Bench.
+Before I do that, it is useful to refer to
+Sections 110-A
+,
+110-B
+and
+110-F
+and Rules 343, 346, and 359 of the Rules, which may have a bearing for answering the two questions referred to the Full Bench.
+(i)
+Section 110-A
+of the Act reads as hereunder:
+Section 110-A
+. Application for compensation.-(1.) An application for compensation arising out of an accident of the nature specified in Sub-section (1) of
+Section 110
+may be made-
+(a) by the person who has sustained the injury; or
+
+(aa) by the owner of the property; or
+(b) where death has resulted from the accident, by all or any of the legal representatives of the deceased; or
+(c) by any agent duly authorised by the person injured or all or any of the legal representatives of the deceased, as the case may be:
+Provided that where all the legal representatives of the deceased have not joined in any such application for compensation, the application shall be made on behalf of, or for the benefit of, all the legal representatives of the deceased and the legal representatives who have not so joined, shall be impleaded as respondents to the application.
+(ii)
+Section 110-B
+of the Act reads as follows:
+Section 110-B. Award of the Claims Tribunal.-On receipt of an application for compensation made under Section 110-A the Claims Tribunal shall after giving the parties an opportunity of being heard, hold an inquiry into the claim or, as the case may be, each of the claims and, subject to the provisions of Section 109-B, may make an award determining the amount of compensation which appears to it to be just and specifying the person or persons to whom compensation shall be paid; and in making the award the Claims Tribunal shall specify the amount which shall be paid by the insurer or owner or driver of the vehicle involved in the accident or by all or any of them, as the case may be.
+(iii)
+Section 110-F
+of the Act reads as under:
+Section 110-F
+. Bar of jurisdiction of civil courts.-Where any Claims Tribunal has been constituted for any area, no civil court shall have jurisdiction to entertain any question relating to any claim for compensation which may be adjudicated upon by the Claims Tribunal for that area, and no injunction in respect of any action taken or to be taken by or before the Claims Tribunal in respect of the claim for compensation shall be granted by the civil court.
+(iv) Rule 343 of the Rules reads as follows:
+343. Applications.-Every application for payment of compensation made under
+Section 110-A
+shall be made in Form No. 82 Comp. appended to these Rules and such an application may be presented to the Tribunal by the applicant either in person or through an authorised agent or an advocate.
+(v) Rule 346 of the Rules reads as hereunder:
+346. Notice to parties involved.-The applicant shall pay in the form of court fee stamps, a process of one rupee for each respondent, for service of notice and thereafter the Claims Tribunal shall send to the owner of the motor vehicle involved in the accident and its insurer, a copy of the application together with a notice of the date on which it will hear the application, and may call upon the parties to produce on that date any evidence which they may wish to tender.
+(vi) Rule 359 of the Rules reads as hereunder:
+359. Judgment and award of compensation.-(1) The Claims Tribunal in passing orders shall record concisely in a judgment the findings on each of the issues framed and the reasons for such findings and make an award specifying the amount of compensation to be paid by the insurer and also the person or persons to whom compensation shall be paid.
+(2) Where compensation is awarded to two or more persons, the Claims Tribunal shall also specify the amount payable to each of them.
+58. It is well settled under common law that in the case of composite negligence on the part of the drivers of two vehicles or where injury is caused by the wrongful act of two parties, the claimant or the plaintiff is not bound to a strict analysis of the proximate or immediate cause of the event to find out whom he can sue. But, subject to the rule as to remoteness of damage, the plaintiff/claimant is entitled to sue all or any of the negligent persons and it is no concern of his whether there is any duty of contribution or indemnity as between those persons. In this connection, it may be beneficial to refer to the law of Torts relating to the composite negligence as analysed by some of the well-known authors.
+59. In Charlesworth on Negligence by R.A. Percy, where several independent tortfeasors cause the same damage to a claimant/plaintiff, at page 889, it is observed thus:
+Situations can arise where two or more wrongdoers have committed torts which have caused damage to a plaintiff and these are: (1) where the wrongdoers are joint tortfeasors; (2) where they are several independent tortfeasors causing the same damage to him; and (3) where they are several independent tortfeasors but cause different damage to him. In this latter instance each wrongdoer is liable only for that part of the damage caused by him, whilst if one of a number of joint tortfeasors or one of the several tortfeasors causing the same damage is sued alone, then, subject to any right he may have to contribution from the other tortfeasors, he is liable for the whole of the damage, even though he may have been responsible merely for just a small part of it.
+(Emphasis supplied)
+60. In Winfield and Jolowicz on Tort, at p. 590, Chapter 22, it has been stated as hereunder:
+Where two or more people by their independent breaches of duty to the plaintiff cause him to suffer distinct injuries, no special Rules are required, for each tortfeasor is liable for the damage which he caused and only for that damage. Where, however, two or more breaches of duty by different persons cause the plaintiff to suffer a single injury the position is more complicated. The law in such a case is that the plaintiff is entitled to sue all or any of them for the full amount of his loss, which means that special Rules are necessary to deal with the possibilities of successive actions in respect of that loss and of claims for contribution or indemnity by one tortfeasor against the others. It is greatly to the plaintiff's advantage to show that he has suffered the same, indivisible harm at the hands of a number of defendants for he thereby avoids the risk, inherent in cases where there are different injuries or finding that one defendant is insolvent (or uninsured) and being unable to execute judgment against him. The question of whether there is one injury can be a difficult one. The simplest case is that of two virtually simultaneous acts of negligence, as where two drivers behave negligently and collide, injuring a passenger in one of the cars or a pedestrian, but there is no requirement that the acts be simultaneous. Thus if D1 driving too fast in icy conditions causes his lorry to 'jackknife' across the motor way and D2 also driving too fast, later comes along and, trying to avoid the obstruction, runs down P, assisting at the scene, both D1 and D2 are liable for P's injuries. The acts of the two defendants may be separated by a substantial period of time and yet contribute to one, indivisible injury for this purpose, as where D1 manufactures a dangerous product and D2 uses it without due care years later. Where, however, the plaintiff's loss is the culmination of a progression, the individual stages of which are brought about by the separate acts of different defendants, each defendant is liable only for the extent to which he contributed to the final result; the second defendant (and subsequent defendants) takes over a plaintiff whose condition has already been impaired by the act of his predecessor and it would be wrong to hold him liable for more than aggravating the pre-existing damage. In the last resort, however, the matter is one of proof and if the plaintiff shows that what the defendant did make a material contribution to his loss it is likely that he will recover in full unless the defendant is able to show that in fact his action was insufficient to cause the whole toss. Where the court concludes that the loss must be apportioned it must do the best it can with the evidence, making the fullest allowances in the plaintiff's favour but in the last resort it may be driven to using arbitrary methods, such as, a ratable apportionment according to the number of defendants. By statute, though not at common law, one defendant may recover a contribution or indemnity from any other defendant liable in respect of that same damage, but that is a matter between the defendants and does not affect the plaintiff who remains entitled to recover his whole loss from whichever defendant he chooses.
+(Emphasis supplied)
+61. In Clerk and Lindsell on Torts, at page 112, it is stated as follows:
+Where damage is caused as the result of torts committed by two or more tortfeasors, the tortfeasors may be (1) joint tortfeasors; (2) several tortfeasors causing the same damage; or (3) several tortfeasors causing different damage, if one of a number of joint tortfeasors, or of several tortfeasors causing the same damage, is sued alone, he is liable for the whole damage, though he did but a small part of it. In the case of several tortfeasors causing different damage, on the other hand, each is liable only for the damage which he has caused.
+62. In Salmond on Torts, 15th Edn., at p. 593, it is observed as follows:
+If a number of persons jointly participate in the commission of a tort, each is responsible, jointly with each and all of the others, and also severally, for the whole amount of the damage caused by the tort irrespective of the extent of his participation. That is to say, the person injured may sue any one of them separately for the full amount of the loss; or he may sue all of them jointly in the same action, and even in this latter case the judgment so obtained against all of them may be executed in full against any one of them. If the tortfeasors were independent or separate the person damnified might sue them one by one and recover from one alone or from such as he chose to execute judgment against, provided that he did not recover more than the greatest sum awarded or, against any defendant, more than was awarded in the action against him.
+(Emphasis supplied)
+63. In the Law of Torts by Ratanlal and Dhirajlal, 21st Edn. 1987, at p. 155, it has been observed as follows:
+Where injury is caused by the wrongful act of two parties, the plaintiff is not bound to a strict analysis of the proximate or immediate cause of the event to find out whom he can sue subject to the Rules as to remoteness of damage, the plaintiff is entitled to sue all or any of the negligent persons and it is no concern of his whether there is any duty of contribution or indemnity as between those persons, though in any case he cannot recover on the whole more than his whole damage. He has a right to recover the full amount of damages from any of the defendants.
+(Emphasis supplied) 
+
+The law of Torts under common law stated by various authors
+referred to above
+makes it clear that in case, an accident is caused on account of the negligence of the drivers of two vehicles or in other words, in case of joint tortfeasors, the liability of the said joint tortfeasors is both joint and several and it is open to the victim of the accident or the legal representative of the victim of the accident in the case of death, to proceed against any one of the joint tortfeasors or against both of them.
+The view taken by the Division Bench of this court in
+Reny Mammen
+'s case , that in case where an accident is caused on account of the negligence of the drivers of two vehicles, it must be treated as a case of several tortfeasors and, therefore, it is not permissible for the claimant to proceed against them either jointly or severally to my mind, does not appear to be the correct view to be taken in a matter like this. It is well settled that in a civil remedy claiming damages, the intention of the parties for causing damage is not relevant. The fact that a driver of a vehicle drives the vehicle in a rash and negligent manner itself is sufficient to take a view that he is expected to know the consequences of his rash and negligent driving of the vehicle and the injury or the harm which is likely to cause to the others who use the highway or happen to be close to the highway. Under these circumstances, if the drivers of both the vehicles, on account of their rash and negligent driving, are the cause for the accident and as a result of it, damage is caused to a third party, the liability of each of the joint tortfeasors cannot be limited in so far as the victim of the accident is concerned on the ground that they must be treated as several tortfeasors and their liability must be limited to the proportion or to the extent of negligence.
+In
+Reny Mammen
+'s case (supra), the Division Bench of this court, to come to its conclusion, strongly relied upon the decision of the single Judge of the High Court at Gauhati in the case of
+Drupad Kumar Barua v. Assam State Trans.Corporation
+, wherein the High Court explained the law relating to tortfeasors as follows:
+The law relating to joint tortfeasors may thus be explained by stating that except in case of agency or vicarious liability or imposition of joint duty, the tortfeasors must act in furtherance of common design or concerted action to a common end to be regarded as joint tortfeasors. To give an analogy which is well-known in criminal law joint tortfeasor would be one who acts as stated in
+Section 34
+, Indian Penal Code in furtherance of the common intention or in prosecution of the common object of which mention has been made in
+Section 149
+, Indian Penal Code.
+In the present case none of the aforesaid elements is present. Two drivers cannot, therefore, be regarded as joint tortfeasors but they are in law several tortfeasors. So, for the acts of one, the other cannot be held liable jointly or severally.
+After noticing the said observations, the Division Bench in
+Reny Mammen
+'s case (supra) has observed thus:
+As held in the above judgment, in order to make two or more persons joint tortfeasors, what is necessary is that they should have acted in a concerted manner or in cooperation which resulted in a common damnum. It is true, intention on the part of them to cause damage to another is unnecessary, for, in such a case it would become an offence under
+Indian Penal Code
+and for a tort, i.e., a civil wrong, intention is irrelevant. Intention to act in a particular manner on the part of more than one person, resulting in an unintended injury to a third party makes all of them joint tort-feasors. Instead, if by mere coincidence of independent acts or negligence of more than one person damage is caused to a third person, they are several tort-feasors and their liability to third person is several in proportion to their fault.
+With great respect to the Hon'ble Judges, I am unable to subscribe to the said view. In a simple case where the accident is caused on account of the rash and negligent driving on the part of the drivers of two vehicles, they cannot be treated as several tortfeasors only on the ground that the accident in question though is the result of combined action of driving the vehicles by both the drivers in a rash and negligent manner, since they did not act in furtherance of common design or concerted action to a common end, which is the requirement of criminal law to treat certain persons as joint tortfeasors. In my view, the requirement of criminal law to treat such persons as joint tortfeasors, cannot be made as the basis or a principle underlying to come to the conclusion that the drivers of two vehicles, who have caused the accident on account of their rash and negligent driving, are not joint tortfeasors, but they must be treated as only several tortfeasors and, therefore, their liability to third person is several in proportion to their fault. In my considered opinion, while the liability of the joint tortfeasors inter se amongst them must be held to be proportionate to the extent of their negligence, insofar as the claimant, who is the victim of the accident or the legal representative of the deceased in an accident is concerned, it is joint and several. Further, in addition to the two Division Bench decisions in the case of A. Shivarudrappa 1973 ACJ 302 (Mysore), and in the case of Rama Bai 1986 ACJ 561 (Karnataka), referred to by me abovem the view I have expressed above is also supported by the Division Bench decisions of this court in the case of
+Lakshmamma v. C. Das
+1985 ACJ 199 (Karnataka) and in the case of United India Fire & Genl. Ins.
+Co. Ltd. v. U.E. Prasad
+1985 ACJ 280 (Karnataka), and also in the case of K. Narayana Karanth v. Shankar Vittal Motor Co. Ltd. 1963 Mys LJ Supp 368. The Division Bench of this court (Sabhahit and Rajasekharamurthy, JJ.)
+in the cases
+Lakshmamma
+(supra) and
+U.E. Prasad
+(supra) and the learned single Judge (Tukol, J.)
+in the case of K. Narayana Karanth (supra), have taken the view that if the accident is caused on account of the negligence of the drivers of two vehicles, such an accident is a result of composite negligence of drivers of both the vehicles and in such circumstances, the claimant can proceed against any joint tortfeasor or against all.
+In the case of
+U.E. Prasad
+(supra), at para 2, the Division Bench has observed thus:
+The learned counsel appearing for the appellant submitted that since the Tribunal held that both the drivers of the auto and car were responsible for causing the accident, the Tribunal ought to have apportioned the liability between the two vehicles. He contended that the insurance company of the auto could not be liable to pay the entire compensation jointly and severally along with the other respondents. This submission was repelled by the learned counsel appearing for the claimant. He submitted that the accident was the result of composite negligence and not contributory negligence. The person who was injured was a passenger in the auto. The evidence of the petitioner shows that both the vehicles were being driven at a very fast speed and that is the cause of the accident. That being so, it is true that the accident was the result of composite negligence of both the drivers of the auto and of the car. In the case of composite negligence the claimant can proceed against any joint tortfeasor or against all of them as they are jointly and severally liable. The Tribunal has given joint and several liability, which in our opinion, is just and proper.
+I am also supported by the Division Bench decisions of the Allahabad High Court in the case of
+Raghib Nasim v. Naseem Ahmad
+1986 ACJ 405 (Allahabad) and in the case of U.P. State Road Trans.Corporation v. Bittan Devi 1988 ACJ 291 (Allahabad), the Division Bench decisions of the Kerala High Court in the case of United India Insurance Co. Ltd. v. Premakuma-ran 1988 ACJ 597 (Kerala) and in the case of United India Fire & Genl. Ins.
+Co. Ltd, v. Varghese
+1989 ACJ 472 (Kerala), the Division Bench decision of the High Court of Punjab and Haryana in the case of
+Secretary, Ministry of Communications, Government of India, New Delhi v. Amar Kaur
+1989 ACJ 82 (P&H), the Division Bench decision of the Rajasthan High Court in the case of
+National Insurance Co. Ltd. v. Kastoori Devi
+1988 ACJ 8 (Rajasthan) and in the case of Sampat Kunwar Bai v. Gurmeet Singh 1988 ACJ 342 (Rajasthan), the decision of the Orissa High Court in the case of
+Bhutan Chandra Dutta Gupta v. G.M., Orissa State Road Trans.Corporation
+1985 ACJ 228 (Orissa).
+64. It may be useful to refer to the observations made in some of the decisions
+,
+referred to above
+.
+(a) In the case of United India Insurance Co. Ltd. v. Premakumaran 1988 ACJ 597 (Kerala), the Kerala High Court has, at para 41, observed thus:
+We have found that the accident happened as a result of the negligence of the driver of the bus and also due to the failure of the railway administration to give protection and precaution at the railway level crossing. This is a case where the incident happened as a result of the composite negligence of the driver of the bus and the railway administration. In such circumstances, the claimants are entitled to recover the entire amount from any of the joint tortfeasors and there could be one decree against all of them. This view has been expressed by some of the authors on the law of Torts. In Anand & Sastri's Law of Torts, 4th Edn., at page 727, it is said that where an injury has been occasioned by the wrongful act of two parties the plaintiff is not required to strictly analyse proximate or immediate cause of the event so as to find out whom he could sue. The plaintiff my sue all or any of the negligent persons and it is no concern of his whether there is any duty of contribution or indemnity as between those persons.
+(b) In the case of Raghib Nasim 1986 ACJ 405 (Allahabad), at para 11, the Allahabad High Court has observed thus:
+When a person is injured without any negligence on his part but as a result of negligence on the part of another person or due to the combined negligence of two persons, it is not a case of contributory negligence. The question of 'contributory negligence' arises in a case where the injured or the deceased had contributed to the accident. In a case of composite negligence, the person wronged has a choice of proceeding against all or any one or more than one of the wrongdoers. Every wrongdoer is liable for the whole damages if it is otherwise made out. The law in this regard has been laid down by Pollock on Torts, 15th Edn., as under:
+Where negligent acts of two or more independent persons have between them caused damage to a third, the sufferer is not driven to apply any such analysis to find out whom he can sue. He is entitled, of course, within the limits set out of the general Rules as to remoteness of damage to sue all or any one of the negligent persons. It is no concern of his whether there is any duty of contribution or indemnity as between these persons though in any case he cannot recover in the whole more than his whole damage.
+(c) The Allahabad High Court, in the case of U.P. State Road Trans.Corporation v. Bittan Devi 1988 ACJ 291 (Allahabad), at paras 12, 13 and 14 has observed thus:
+Counsel for theCorporation argued that the accident was the result of the composite negligence of the truck driver and the driver of the bus...When the accident occurs and the injuries flow without any negligence on the part of the claimant, but as a result of the negligence on the part of the two persons, it is a case which is described as a case of composite negligence.
+Where negligent acts of two or more independent persons have between them caused damage to a third, the sufferer is not driven to apply any such analysis to find out whom he can sue. He is entitled, of course, within the limits set out by the general Rules as to remoteness of damage to sue all or any one of the negligent persons. It is no concern of his whether there is any duty of contribution or indemnity as between these persons though in any case he cannot recover on the whole more than his whole damage.
+Since this was a case of composite negligence the respondents had a right under the law to sue theCorporation for the compensation for what had been suffered by them. The liability of the truck and the bus was joint and several. This being the position, the respondents could choose either of the two or prefer claim against both. In this view of the matter, although we have differed from the finding of the Claims Tribunal that the accident took place due to the sole negligence of the bus driver but that does not make out any case to reverse its judgment. The accident even if it was due to the negligence of both, the liability of theCorporation would not vanish, extinguish or diminish.
+(d) The Rajasthan High Court, in the case of
+National Insurance Co. Ltd. v. Kastoori Devi
+1988 ACJ 8 (Rajasthan), at paras 13 and 14, has observed thus:
+It was contended by the learned counsel for both the insurance companies that apportionment should be made in the liability of both the insurance companies according to the proportion of negligence of the two vehicles. It has been further submitted that when the liability is imposed jointly and severally, it remains in the discretion of the claimants to realise the amount from any of the insurance companies and this causes a prejudice to that insurance company from which the entire amount of compensation is raised.
+We see no force in this contention. It has been
+laid down in
+plethora of cases of this court as well as other High Courts that in case of composite negligence the liability cannot be apportioned. In a case of composite negligence there is no method or indicia to bifurcate or apportion the liability and the only course open in such cases can be to make them both liable as jointly or severally. So far as the claimants are concerned, they can realise the amount from any one of the insurance companies and then the insurance company, which pays the entire amount, can take steps for recovering half of the amount from the other insurance company.
+(e) In the case of United India Fire & Genl. Ins.
+Co. Ltd. v. Varghese
+1989 ACJ 472 (Kerala), at para 6, the Kerala High Court has observed as hereunder:
+In a case of composite negligence, the injured has the option to proceed against all or any one of the joint tortfeasors. He can, therefore, enforce his claim for compensation impleading only one of the joint tortfeasors. It cannot be a defence, in such an action, for the defendant to contend that the other joint tortfeasors have not been made parties and therefore the action is not sustainable. He may have the right to seek contribution from the other joint tortfeasors for any amount which he pays in excess of his liability. The liability of the joint tortfeasors being joint and several, the action against one of the many cannot be effectively resisted as unsustainable. The injured may sue against all or any of the negligent persons. It is not the concern of his whether there is any duty of contribution or indemnity as between those persons though he may not be able to recover, on the whole, more than his own damage by successive actions against different tortfeasors. The principle is well settled that 'if one of the number of joint tortfeasors or of several tortfeasors causing the same damage is alone sued, he is liable for the whole damage, though he did but a small part of it'. The recovery of damages against one of a number of tortfeasors may operate as a bar to any further action against the other even if the judgment remained unsatisfied.
+(f) In the case of
+State of Tamil Nadu v. P.K. Anandan
+1982 ACJ 358 (Madras), the Madras High Court, at paras 5 and 6, has observed as follows:
+...It is well established that if an accident has been caused by the contributory negligence of two joint tortfeasors and as a result of the accident it is open to the third party to claim compensation against any or all the joint tortfeasors, and even if a judgment is rendered against all the joint tortfeasors, he can proceed against one for recovery of the entire compensation. In a recent judgment of this court in Southern Roadways Limited, Madurai v. P.O. Poulose, CMA No. 173 of 1979, it has been pointed out:
+If a number of persons jointly participate in the commission of a tort, each is responsible jointly with each and all of the others and also severally for the whole amount of the damage caused by the tort irrespective of the extent of his participation. Therefore, a person injured may sue anyone of them separately for the full amount of the loss or he may sue all of them jointly in the same action and even in this latter case the judgment so obtained against all of them may be executed in full against any of them.
+In support of the above legal proposition, reference has been made in that case to the decision in Wimpey (George) & Co. Ltd. v. British Overseas AirwaysCorporation, (1955) AC 169; Krishna-swami v. Narayanan, AIR 1939 Madras 261; and
+K. Gopalakrishnan v. Sankara Narayanan
+1969 ACJ 34 (Madras), on the question as to whether all the joint tortfeasors are necessarily to be made parties in a claim petition.
+Relying on an earlier decision of Venkatadri, J., in Ramachandran v. Kumarappa, , it has been held in C.M.A. No. 173 of 1979 batch, that the non-impleading of one of the joint tortfeasors is not fatal to the maintainability of the claim as against the other tortfeasors. In Premraj Gobindram v. Promode Kumar, AIR 1964 Assam 85, it has been held that a joint tortfeasor is only a proper party in a claim made by a third party against the other tortfeasor but not a necessary party and therefore non-impleading of such a party is not fatal to the claim. Following the decision in C.M.A. No. 173 of 1979 batch, it must be held that in this case that non-impleading of the lorry owner cannot be held to be fatal to the maintainability of the claim by the claimant herein.
+Further, in the case of Grant v. Sun Shipping Co. Ltd., (1948) 2 All ER 238, similar view was expressed by their Lordships of the House of Lords. In that case, an action was brought by a stevedore against a ship owner for breach of statutory duty and also against the repairers for negligence at common law. On the facts, it was held that the accident was the result of negligence and breach of statutory duty of both the ship owner and the repairers. In dealing with the question of liability in cases of composite negligence, their Lordships observed thus:
+It was a settled principle that, when separate and independent acts of negligence on the part of the two or more persons, had directly contributed to cause injury and damage to another, the person injured might recover damages from any one of the wrongdoers, or from all of them.
+Therefore, I am of the view that the view expressed by this court in
+Reny Mammen
+'s case , is not the correct view to be taken.
+65. Now, the only other question that requires to be considered in the light of the view expressed by this court in
+Reny Mammen
+'s case , is whether the statutory provisions contained in
+Chapter VIII of the Act
+, more particularly,
+Sections 110-A
+,
+110-B
+and
+110-F
+, and the Rules, have in any manner modified or altered the common law doctrine relating to the liability of joint tortfeasors to answer the claim of the third parties?
+66. It is well settled that if the statutory provision has the effect of modifying or altering the common law principle, the statutory provision will prevail and will have to be given effect to and required to be followed by courts while adjudicating the rights of the parties.
+In this connection, it may be useful to refer to the decision of the Supreme Court in the case of
+Commissioner of Agricultural Income Tax, West Bengal v. Keshab Chandra Mandal
+, , wherein at para 14, the Supreme Court has observed:
+There is no doubt that the true rule as
+laid down in
+judicial decisions and indeed as recognised by the High Court in the case before us is that unless a particular statute expressly or by necessary implication or intendment excludes the common law rule, the latter must prevail. It is, therefore, necessary in this case to examine the Act and the Rules to ascertain whether there is any indication therein that the intention of the legislature is to exclude the common law rule.
+Therefore, as noticed by me earlier, the question that would really arise for consideration is whether the statutory provision in the Act and the Rules framed thereunder, override the common law liability of joint tortfeasors, who have caused an accident on account of their composite negligence; and as such, they are liable only to the proportion or to an extent of their negligence while paying compensation to the victim of the accident or the legal representatives of the deceased in an accident in the case of death.
+67. Having carefully considered the Division Bench decision of this court in
+Reny Mammen
+'s case and the judgment of my learned Brother Justice Bharuka; and also in the light of the language employed in the various statutory provisions of the Act and the Rules framed thereunder
+,
+referred to above
+, I am unable to subscribe to the view that the statutory provisions contained in the Act and the Rules framed thereunder, have in any manner modified or altered the law of Torts under common law relating to composite negligence.
+68.
+Section 110
+of the Act (Section 165 of the 1988 Act) provides for the constitution of the Motor Accidents Claims Tribunal.
+Section 110-A
+of the Act (Section 166 of the 1988 Act) provides for an application being filed claiming compensation arising out of an accident of the nature specified in
+Section 110
+of the Act before the Tribunal.
+Section 110-B
+of the Act [Section 168(1) of the 1988 Act] provides for two parts. The first part provides that after following certain procedures, the Tribunal shall make an award, determine the amount of compensation which appears to be just, and specify the person or persons to whom compensation shall be paid. The second part of
+Section 110-B
+provides for specification of the amount payable by the insurer or the owner or driver of the vehicle involved in the accident or by all or any one of them, as the case may be.
+Section 110-F
+of the Act (which is incorporated in
+Section 175
+of the Act of 1988) bars the jurisdiction of the civil court to entertain any question relating to any claim for compensation, it may be adjudicated upon by the Claims Tribunal. The combined reading of
+Sections 110
+and
+110-F
+of the Act makes it clear that subsequent to coming into force of the Act, it is only the Tribunals which are constituted under
+Section 110
+of the Act, which are conferred with the jurisdiction of settling the disputes relating to claim for compensation on account of the injuries sustained by the claimant or the compensation for the death of a victim of the motor accident by his legal representatives. From a reading of the several provisions in
+Chapter V11I of the Act
+, it is clear that one of the objects of the Act among other things, is to provide for speedy and efficacious remedy through the Tribunals and to ensure payment of compensation to the victims of the accident.
+This is clear from
+Section 94
+of the Act which provides that no person shall use except as a passenger or cause or allow any other person to use a motor vehicle in a public place, unless that vehicle is covered by a policy of insurance. In this background, the provisions contained in
+Section 110-B
+of the Act and Rule 345 of the Rules, relied upon by the Division Bench in the case of Reny Mammen , have to be examined to consider whether the said provisions have the effect of taking away or in any manner modify the common law principle relating to law of Torts with regard to the right of a victim of a motor accident in respect of the accident on account of the composite negligence by the drivers of two or more vehicles. A reading of
+Section 110-B
+of the Act, to my mind, appears that the said section is a provision made for providing procedure to be followed by the Tribunals which are required to be followed on the applications being filed by the claimants seeking compensation.
+Section 110-B
+referred to in
+Reny Mammen
+'s case (supra) to come to the conclusion that the victim of a motor accident in the case of composite negligence can claim compensation only to the proportion of the negligence of the drivers, no doubt, provides that the Tribunal while making the award is required to specify the amount which is required to be paid by the insurer, owner or driver of the vehicle involved in the accident or by all or any one of them, as the case may be. The mandate contained in
+Section 110-B
+requiring the Tribunal to specify the amount which is required to be paid by the insurer, owner or driver of the vehicle involved in the accident, or by all or any of them, as the case may be, cannot be understood or interpreted to mean that the right of the claimant to proceed against one of the joint tortfeasors in the case of composite negligence is taken away or in any manner modified or altered. The purport of the said provision, to my mind, it appears, is an obligation imposed on the Tribunal while passing the award depending upon the facts and circumstances of the case and availability of the joint tortfeasors, and the joint tortfeasor having been made as a party to the proceedings, to fix the liability with reference to the proportion of the negligence contributed by them for the accident. The said provision, in my view, is only intended to the extent possible, to avoid multiplicity of proceedings inter se between the drivers, owners and insurers of the two vehicles and to the extent possible to give a finality to their liability. That does not mean that the said provisions should be understood as taking away the common law rights, which have been hitherto enjoyed by the victims of motor accidents and which are being followed by various courts in the country. Insofar as the victim of the accident, who is injured or the legal representative of a victim of any accident, who dies in an accident, is concerned, it is not possible to assess the gravity of the injury caused or the contribution made by one of the joint tortfeasors either for the injury caused or for the death of a victim of an accident, though the court can assess the percentage of the negligence on the part of each of the joint tortfeasors, which has caused the accident. The assessment of the percentage of negligence, which has caused the accident by each of the joint tortfeasors is quite distinct and separate from the assessment of the percentage of the gravity of the impact or the contribution made for the injury suffered by a victim of the accident or for the death caused in the accident. As observed by me earlier, the gravity or impact of the vehicle to a third party, who sustains an injury in the accident or on account of such injury, who succumbs to death, cannot be assessed. The percentage of negligence of the drivers is a matter, inter se, between the drivers, owners and insurers of the two vehicles. Further, while the first part contained in
+Section 110-B
+of the Act mandates the Tribunal to determine the quantum of compensation payable and the person to whom it is payable, the second part thereof, which provides for fixation of liability on the part of the tortfeasor or joint tortfeasors is only procedural in nature.
+In
+Reny Mammen
+'s case (supra), the Division Bench has proceeded on the basis that
+Section 110-B
+of the Act provides for substantive rights to the parties. I am unable to subscribe to the said view.
+In this connection, it is useful to refer to the decision of the Supreme Court in the case of
+Union of India v. United India Insurance Co. Ltd.
+, wherein the Supreme Court, while considering
+Section 110-B
+of the Act, has held that the second part of
+Section 110-B
+of the Act, which provides for the specification of the liability of the driver, owner and insurer of the vehicle, is procedural in nature. The Supreme Court at paras 43 and 44 of
+the said decision
+, observed as here-under:
+Under
+Section 110 (1)
+of the Motor Vehicles Act 1939 (corresponding to
+Section 165
+of 1988 Act) Claims Tribunals have been constituted for adjudicating upon claims for compensation in respect of accidents involving the death or bodily injury of persons, 'arising out of the use of motor vehicles or damage to any property of a third party so arising or both'.
+Section 110 (1)
+in our view deals with the jurisdiction of the Tribunal. On the other hand, Section 110-B [corresponding to
+Section 168(1)
+of the new Act of 1988] is procedural and is in two parts. The first part states that after following certain procedure, the Claims Tribunal shall 'make an award determining the amount of compensation which appears to it to be just and specifying the person or persons to whom compensation shall be paid'. Obviously, the word 'compensation' here in the first part of Section 110-B is referable to the compensation to be decided by the Tribunal under
+Section 110 (1)
+. But it is the second part of Section 110-B on which the appellant (Union of India) has relied and that part reads as follows:
+In making the award the Claims Tribunal shall specify the amount which shall be paid by the insurer or owner or driver of the vehicle involved in the accident or by all or any of them, as the case may be.
+It is stressed for the appellant that because of the specific reference hereto the insurer, owner and driver, an award cannot be passed by the Tribunal against anybody else. In our view, the second part of Section 110-B extracted above is purely procedural when it refers to the specification of the amounts payable by the insurer or owner or driver and has no bearing on the scope of the jurisdiction conferred by
+Section 110 (1)
+upon the Tribunals. That question has to be decided by interpreting the plain words, 'arising out of the use of the vehicle' occurring in
+Section 110 (1)
+and is not in any manner controlled by Section 110-B. The scope of the jurisdiction is clear.
+In
+New India Assurance Co. Ltd. v. Shanti Misra
+1976 ACJ 128 (SC), this court stated that the provisions in Chapter VIII of the 1939 Act contained a law 'relating to change of forum'. It was specifically held that the 'jurisdiction of the civil court is ousted as soon as the Claims Tribunal is constituted and the filing of the application before the Tribunal is the only remedy available to the claimant'.
+It was again held in
+Gujarat State Road Trans.Corporation v. Ramanbhai Prabhatbhai
+1987 ACJ 561 (SC), that Chapter VIII provided for an 'alternative forum' to the one provided under the
+Fatal Accidents Act
+for realisation of compensation payable on account of motor vehicle accidents.
+(Emphasis supplied) 
+
+In my view, the same is the position from the reading of Rule 343 of the Rules, referred to in
+Reny Manxmen
+'s case (supra). Rule 343 of the Rules, extracted above, only provides for filing of the application in Form No. 82 appended to the Rules and requires to be accompanied by the court fee and the application has to be presented before the Tribunal. No doubt, columns 14, 15 and 16 of Form No. 82 require the claimants to mention the registration number and the type of the vehicle involved in the accident; name and address of the owner of the vehicle and the name and address of the insurer of the vehicle.
+From that alone, it is not possible to come to the conclusion that the drivers of the two vehicles were either several tortfeasors as observed by the Division Bench of this court in
+Reny Mammen
+'s case (supra) or the liability of the joint tortfeasors is required to be apportioned by the Tribunal proportionate to the percentage of the negligence contributed by each of the tortfeasors and the claimant is entitled to claim compensation only to the extent of contribution of negligence by each of the joint tortfeasors, who have caused the accident.
+69. Now, the only other aspect of the matter which may have to be referred to is whether the observations made by the Supreme Court in the case of
+Karnataka State Road Trans.Corporation v. K.V. Sakeena
+, would in any manner indicate that the liability of the joint tortfeasors in a composite negligence is only proportionate to the extent of their negligence in so far as the claimant is concerned. In my view, in the said case, the Apex Court did not consider the question whether the liability of the joint tortfeasors in a case of composite negligence is either joint and several or only limited to the proportion to the extent of their negligence. The only question that was considered by the Apex Court
+in that case
+was whether the driver of the truck-trailer was also negligent or not? The Supreme Court, after analysing the evidence on record, had come to the conclusion that the driver of the truck-trailer was also negligent and the proportion of the negligence of the driver of the bus and the driver of the truck-trailer was determined at 60 per cent and 40 per cent respectively, and in the light of that conclusion, the Supreme Court has held that the owner, driver and insurer of the truck-trailer are liable jointly and severally, to pay 40 per cent of the compensation.
+Therefore, I am of the view that the decision of the Supreme Court, in the case of
+Karnataka State Road Trans.Corporation v. K.V. Sakeena
+(supra), has no bearing to decide the question which arises for consideration in this appeal.
+70. Before concluding it is useful to refer to one other reason given by this court in
+Reny Mammen
+'s case , to take the view that the liability of the owners, drivers and insurers of the two vehicles must be limited to the proportion to the extent of their negligence, is that otherwise there is scope for the claimant conniving with one of the private owners of the vehicle, who was responsible for the cause of the accident and leaving him out from his liability to pay compensation. With great respect, I find it unable to subscribe to this view. It is not possible to assume that all the claimants are dishonest and likely to connive with one of the joint tortfeasors. The exceptions cannot be taken cognizance of while deciding the legal position. If the said reasoning has to be put against the claimants, the same reasoning can be put against the owners, drivers and insurers of the vehicles, who may also connive with and show the finger of negligence at the person who has no capacity to reimburse the liability of the claimant. In this context, it is also necessary to point out that most of the victims of the motor accidents generally belong to lower strata of the society, who are either poor, illiterate or agricultural labourers, who are either pedestrians on the road or cyclists or passengers who travel in the transport services or the labourers, who travel in the goods vehicles accompanying goods, etc. In this background, if their claim is to be considered, it is needless to observe that they are very much handicapped and unevenly placed as against the owners of the vehicles and their insurers. It is also necessary to notice that in a case of death, the legal heirs of the deceased, on many occasions, are at a great disadvantage. The information of the material they secure may only point out in the case of composite negligence that the driver of one of the vehicles was only negligent and on that basis, they may institute proceedings in good faith only against such driver, the owner and also the insurer, of the said vehicle. Under these circumstances, no motives can be imputed to such claimants for not impleading the drivers, owners or insurers of both the vehicles. In such situations if it is the case of the driver, owner and insurer of the vehicle, who is sued, that he is either not negligent or the accident in question had occurred on account of the negligence on the part of the drivers of both the vehicles, to seek for impleading of the driver, owner and insurer of such other vehicle. The driver, owner and insurer of a vehicle, whether it be a transport vehicle or a private cab, they are certainly better placed and have better facilities and financial support to take effective steps to furnish the name and address and details regarding the contributory negligence on the part of the driver of such vehicle. If such a request is made, the Tribunal in the light of the mandate contained in
+Section 110-B
+of the Act, which provides for enquiry being held into the claim made by a claimant, and determination of quantum of compensation which appears to be just, and also which provides for specification of the quantum of compensation payable by the drivers, owners and insurers of the vehicles and also in terms of rule 346 of the Rules, will have to issue notice to such a joint tortfeasor and implead him as a party to the proceedings and dispose of the matter. In this situation, there is absolutely no injustice caused to any one and more so, to one of the joint tortfeasors. If what I have indicated above is followed, there would not be any scope for multiplicity of proceedings as the rights of the parties will be settled once for all in one proceeding itself. Further, since
+Section 110-F
+of the Act takes away the jurisdiction of the civil court to entertain any question relating to any claim for compensation, which may be adjudicated upon by the Claims Tribunal, once the liability of the joint tortfeasors is fixed proportionate to the extent of negligence caused by each of the joint tortfeasors, it is open to the joint tortfeasor, who satisfies the award when their liability is made joint and several to proceed against the other joint tortfeasors to recover the balance amount in terms of the award passed in the same proceedings. It is open to the Tribunal, while passing the award, to make the said position clear when both the joint tortfeasors are made as parties to the proceedings. In cases where both the joint tortfeasors are not made as parties to the proceedings, such of the joint tortfeasor, i.e., driver, owner and insurer of the vehicle, who satisfies the award, can continue the same proceedings by impleading the driver, owner and insurer of the other vehicle, which has caused the accident on account of the negligence of the driver of the said vehicle. This procedure, in my view, is permissible in proper understanding of
+Section 110-F
+of the Act, and it would also subserve the very object of
+Chapter VIII of the Act
+which intends to give expeditious and effective relief to the victims of the motor accidents or the legal representatives of the persons who are killed in such accidents.
+71.
+In the light of the discussion made above, I am of the view that the Division Bench decision of this court in the case of
+Karnataka State Road Trans.Corporation v. Reny Mammen
+, does not lay down the correct law.
+The decisions of this court in the case of A. Shivarudrappa v. General Manager, Mysore Road Trans.Corporation 1973 ACJ 302 (Mysore) and in the case of
+Rama Bai v. H. Mukunda Kamath
+1986 ACJ 561 (Karnataka), and also in the case of K. Narayana Karanth v. Shankar Vittal Motor Co. Ltd. 1963 Mys LJ Supp 368 and others lay down the correct law.
+I am in respectful agreement with the view expressed by this court in the case of A. Shivarudrappa (supra) and also in the said decisions.
+72. Therefore, in conclusion, insofar as the first question referred to the Full Bench by the Division Bench is concerned, my answer is that in the case of a motor vehicle accident caused due to the composite negligence of the drivers of two or more vehicles, the person who is injured or the legal representatives of a person who is killed in such an accident, are entitled to claim the entire compensation from all or any of the drivers, owners and insurers of the vehicles.
+73. In light of the above conclusion, the papers may be placed before the Division Bench for disposal of the appeal on merits.
+V. Gopala Gowda, J.
+74. I have gone through the judgments prepared by my learned Brothers. While my Brother Bharuka, J. has arrived at the conclusion that recovery of the compensation can be made from each set of driver, owner and insurer proportionate to the quantum of negligence of the driver, the other Brother Vishwanatha Shetty, J. has arrived at the conclusion that such a claim can be made from all or any of the drivers, owners and insurers of the vehicles in an accident caused on account of composite negligence of drivers of two or more vehicles.
+75. With respect, I disagree with the conclusion arrived at by learned Bharuka, J. and concur with the conclusion arrived at by Vishwanatha Shetty, J.

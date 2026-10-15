@@ -1,0 +1,43 @@
+{
+    "case_id": "case_37623680",
+    "doc_id": "37623680",
+    "case_title": "Shilpa Sailesh vs Varun Sreenivasan",
+    "court": "Supreme Court of India",
+    "judgment_date": "2023-05-01",
+    "raw_judgment_date": "1 May, 2023",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Shilpa Sailesh",
+        "respondent": "Varun Sreenivasan",
+        "insurance_company": null
+    },
+    "bench": [
+        "Sanjay Kishan Kaul"
+    ],
+    "legal_sections": {
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ],
+        "Code of Civil Procedure, 1908": [
+            "CPC",
+            "{}"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/37623680/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 114110,
+    "collection_timestamp": "2026-09-26T04:52:16.238323+00:00",
+    "cleaned_text_length": 97777,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

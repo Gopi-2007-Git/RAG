@@ -1,0 +1,52 @@
+{
+    "case_id": "case_190580",
+    "doc_id": "190580",
+    "case_title": "The Oriental Insurance Co. Ltd vs Hansrajbhai V. Kodala & Ors",
+    "court": "Supreme Court of India",
+    "judgment_date": "2001-04-04",
+    "raw_judgment_date": "4 April, 2001",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "The Oriental Insurance Co. Ltd",
+        "respondent": "Hansrajbhai V. Kodala & Ors",
+        "insurance_company": "Oriental Insurance"
+    },
+    "bench": [
+        "M.B. Shah",
+        "D.P. Mohapatra"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 140",
+            "Section 163-A",
+            "Section 163A",
+            "Section 165",
+            "Section 166",
+            "Section 168"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939"
+        ],
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/190580/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 56121,
+    "collection_timestamp": "2026-08-24T15:52:15.942871+00:00",
+    "cleaned_text_length": 52162,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

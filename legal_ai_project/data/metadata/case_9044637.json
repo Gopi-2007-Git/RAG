@@ -1,0 +1,48 @@
+{
+    "case_id": "case_9044637",
+    "doc_id": "9044637",
+    "case_title": "Shri Ram General Insurance Company Ltd vs Beant Kaur And Ors",
+    "court": "Punjab and Haryana High Court",
+    "judgment_date": "2019-03-14",
+    "raw_judgment_date": "14 March, 2019",
+    "case_number": "FAO No.2110 of 2016",
+    "parties": {
+        "appellant_petitioner": "Shri Ram General Insurance Company Ltd",
+        "respondent": "Beant Kaur And Ors",
+        "insurance_company": "National Insurance"
+    },
+    "bench": [
+        "Lisa Gill"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 166",
+            "Section 173"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939"
+        ],
+        "Indian Penal Code, 1860": [
+            "IPC",
+            "Section 279"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/9044637/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 69380,
+    "collection_timestamp": "2026-08-24T15:52:16.022722+00:00",
+    "cleaned_text_length": 61798,
+    "data_quality_score": 0.7,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

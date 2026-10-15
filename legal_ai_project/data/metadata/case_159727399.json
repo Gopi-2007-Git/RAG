@@ -1,0 +1,39 @@
+{
+    "case_id": "case_159727399",
+    "doc_id": "159727399",
+    "case_title": "Swati vs Arvind Mudgal",
+    "court": "Delhi High Court",
+    "judgment_date": "2015-01-29",
+    "raw_judgment_date": "29 January, 2015",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Swati",
+        "respondent": "Arvind Mudgal",
+        "insurance_company": null
+    },
+    "bench": [
+        "J.R. Midha"
+    ],
+    "legal_sections": {
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/159727399/",
+    "document_type": "final_judgment",
+    "decision": "appeal_allowed",
+    "decision_evidence": "32. The appeal is allowed. The impugned judgment and decree",
+    "raw_text_length": 86878,
+    "collection_timestamp": "2026-09-26T04:52:15.996393+00:00",
+    "cleaned_text_length": 75569,
+    "data_quality_score": 0.9,
+    "processing_status": "usable",
+    "exclusion_reason": null,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.30000000000000004
+    }
+}

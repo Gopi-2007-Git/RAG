@@ -1,0 +1,35 @@
+{
+    "case_id": "case_185617217",
+    "doc_id": "185617217",
+    "case_title": "Anmol Verma (Minor) vs Motor Accident Claim Tribunal/ ...",
+    "court": "Allahabad High Court",
+    "judgment_date": "2018-04-11",
+    "raw_judgment_date": "11 April, 2018",
+    "case_number": "M.A.C.P. No.26 of 2012",
+    "parties": {
+        "appellant_petitioner": "Anmol Verma (Minor)",
+        "respondent": "Motor Accident Claim Tribunal/ ...",
+        "insurance_company": null
+    },
+    "bench": [
+        "Vivek Kumar Birla"
+    ],
+    "legal_sections": {},
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/185617217/",
+    "document_type": "final_judgment",
+    "decision": "petition_dismissed",
+    "decision_evidence": "I find no illegality in the order impugned herein. The petition stands dismissed.",
+    "raw_text_length": 11674,
+    "collection_timestamp": "2026-08-24T15:52:15.926064+00:00",
+    "cleaned_text_length": 10622,
+    "data_quality_score": 0.85,
+    "processing_status": "usable",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.0,
+        "outcome_certainty": 0.30000000000000004
+    },
+    "exclusion_reason": null
+}

@@ -1,0 +1,15 @@
+{
+    "case_id": "case_1577526",
+    "case_title": "Kannamma vs Deputy General Manager",
+    "exclusion_reason": "decision_not_identified",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "data_quality_score": 0.7,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    },
+    "source_url": "https://indiankanoon.org/doc/1577526/"
+}

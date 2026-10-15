@@ -1,0 +1,39 @@
+{
+    "case_id": "case_37083853",
+    "doc_id": "37083853",
+    "case_title": "Shailendra Kumar Singh vs Smt. Reeta Singh And Another",
+    "court": "Allahabad High Court",
+    "judgment_date": "2019-12-19",
+    "raw_judgment_date": "19 December, 2019",
+    "case_number": "FIRST APPEAL No. - 151 of 2012",
+    "parties": {
+        "appellant_petitioner": "Shailendra Kumar Singh",
+        "respondent": "Smt. Reeta Singh And Another",
+        "insurance_company": null
+    },
+    "bench": [
+        "Anil Kumar"
+    ],
+    "legal_sections": {
+        "Code of Civil Procedure, 1908": [
+            "CPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/37083853/",
+    "document_type": "final_judgment",
+    "decision": "appeal_allowed",
+    "decision_evidence": "For the foregoing reasons, the appeal is allowed. The order dated 05.09.2012, passed by the Family Court, Faizabad in Suit No. 105 of 2000 (",
+    "raw_text_length": 93405,
+    "collection_timestamp": "2026-09-26T04:52:16.192815+00:00",
+    "cleaned_text_length": 91821,
+    "data_quality_score": 0.95,
+    "processing_status": "usable",
+    "exclusion_reason": null,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.30000000000000004
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "case_id": "case_178311457",
+    "doc_id": "178311457",
+    "case_title": "Anil Yashwant Karande vs Smt. Mangal Anil Karande",
+    "court": "Bombay High Court",
+    "judgment_date": "2015-12-23",
+    "raw_judgment_date": "23 December, 2015",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Anil Yashwant Karande",
+        "respondent": "Smt. Mangal Anil Karande",
+        "insurance_company": null
+    },
+    "bench": [
+        "R.D. Dhanuka"
+    ],
+    "legal_sections": {
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ],
+        "Code of Civil Procedure, 1908": [
+            "CPC",
+            "{}"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/178311457/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 52391,
+    "collection_timestamp": "2026-09-26T04:52:16.083715+00:00",
+    "cleaned_text_length": 41360,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

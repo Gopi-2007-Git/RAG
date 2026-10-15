@@ -1,0 +1,9 @@
+# Legal AI Project Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+python-dateutil>=2.8.2
+pandas>=2.0.0
+numpy>=1.24.0
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.4
+torch>=2.0.0

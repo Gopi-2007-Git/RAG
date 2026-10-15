@@ -1,0 +1,38 @@
+{
+    "case_id": "case_376677",
+    "doc_id": "376677",
+    "case_title": "Lakshmi Shanmugham vs P.R. Shanmugham",
+    "court": "Madras High Court",
+    "judgment_date": "1995-09-13",
+    "raw_judgment_date": "13 September, 1995",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Lakshmi Shanmugham",
+        "respondent": "P.R. Shanmugham",
+        "insurance_company": null
+    },
+    "bench": [],
+    "legal_sections": {
+        "Code of Civil Procedure, 1908": [
+            "CPC",
+            "{}"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/376677/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 86516,
+    "collection_timestamp": "2026-09-26T04:52:16.274305+00:00",
+    "cleaned_text_length": 85156,
+    "data_quality_score": 0.6,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.25,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "case_id": "case_52797769",
+    "doc_id": "52797769",
+    "case_title": "Rishu Aggarwal vs Mohit Goyal",
+    "court": "Delhi High Court",
+    "judgment_date": "2022-04-18",
+    "raw_judgment_date": "18 April, 2022",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "Rishu Aggarwal",
+        "respondent": "Mohit Goyal",
+        "insurance_company": null
+    },
+    "bench": [
+        "Jasmeet Singh"
+    ],
+    "legal_sections": {
+        "Code of Civil Procedure, 1908": [
+            "CPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/52797769/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 91106,
+    "collection_timestamp": "2026-09-26T04:52:16.335480+00:00",
+    "cleaned_text_length": 69708,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

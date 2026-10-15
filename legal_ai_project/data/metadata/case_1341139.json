@@ -1,0 +1,35 @@
+{
+    "case_id": "case_1341139",
+    "doc_id": "1341139",
+    "case_title": "A. Viswanathan vs G. Lakshmi @ Seetha",
+    "court": "Madras High Court",
+    "judgment_date": "2006-11-20",
+    "raw_judgment_date": "20 November, 2006",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "A. Viswanathan",
+        "respondent": "G. Lakshmi @ Seetha",
+        "insurance_company": null
+    },
+    "bench": [
+        "V. Dhanapalan"
+    ],
+    "legal_sections": {},
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/1341139/",
+    "document_type": "final_judgment",
+    "decision": "appeal_allowed",
+    "decision_evidence": "is allowed thereby granting divorce by dissolving the marriage held on 23.08.1992 between the appellant and respondent and in the result, the appeal is allowed. No costs. Consequently, the connected C.M.P. is closed.",
+    "raw_text_length": 58717,
+    "collection_timestamp": "2026-09-26T04:52:15.912860+00:00",
+    "cleaned_text_length": 57100,
+    "data_quality_score": 0.8,
+    "processing_status": "usable",
+    "exclusion_reason": null,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.0,
+        "outcome_certainty": 0.30000000000000004
+    }
+}

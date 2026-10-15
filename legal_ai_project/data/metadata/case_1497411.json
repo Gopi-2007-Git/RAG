@@ -1,0 +1,53 @@
+{
+    "case_id": "case_1497411",
+    "doc_id": "1497411",
+    "case_title": "United India Insurance Co. Ltd., ... vs Member, Motor Accident Claims ...",
+    "court": "Gauhati High Court",
+    "judgment_date": "1992-09-22",
+    "raw_judgment_date": "22 September, 1992",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "United India Insurance Co. Ltd., ...",
+        "respondent": "Member, Motor Accident Claims ...",
+        "insurance_company": "New India Assurance"
+    },
+    "bench": [
+        "Chief Justice"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 149",
+            "Section 168",
+            "Section 170",
+            "Section 173"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939",
+            "Section 110-C",
+            "Section 110-D",
+            "Section 96"
+        ],
+        "Code of Civil Procedure, 1908": [
+            "CPC",
+            "{}"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/1497411/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 30193,
+    "collection_timestamp": "2026-08-24T15:52:15.804220+00:00",
+    "cleaned_text_length": 29069,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

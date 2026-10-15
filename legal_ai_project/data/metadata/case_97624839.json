@@ -1,0 +1,43 @@
+{
+    "case_id": "case_97624839",
+    "doc_id": "97624839",
+    "case_title": "The New India Assurance Company Limited vs Somwati",
+    "court": "Supreme Court of India",
+    "judgment_date": "2020-09-07",
+    "raw_judgment_date": "7 September, 2020",
+    "case_number": "CIVIL APPEAL NO.3093 OF 2020",
+    "parties": {
+        "appellant_petitioner": "The New India Assurance Company Limited",
+        "respondent": "Somwati",
+        "insurance_company": "New India Assurance"
+    },
+    "bench": [
+        "Ashok Bhushan"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 166"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/97624839/",
+    "document_type": "final_judgment",
+    "decision": "appeal_partly_allowed",
+    "decision_evidence": "with law. 48. All the appeals are partly allowed accordingly. No costs.",
+    "raw_text_length": 45591,
+    "collection_timestamp": "2026-08-24T15:52:16.033731+00:00",
+    "cleaned_text_length": 38178,
+    "data_quality_score": 0.95,
+    "processing_status": "usable",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.30000000000000004
+    },
+    "exclusion_reason": null
+}

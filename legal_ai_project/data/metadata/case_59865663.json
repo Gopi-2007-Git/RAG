@@ -1,0 +1,35 @@
+{
+    "case_id": "case_59865663",
+    "doc_id": "59865663",
+    "case_title": "M.Laxman vs L.Annapurani",
+    "court": "Madras High Court",
+    "judgment_date": "2018-06-05",
+    "raw_judgment_date": "5 June, 2018",
+    "case_number": null,
+    "parties": {
+        "appellant_petitioner": "M.Laxman",
+        "respondent": "L.Annapurani",
+        "insurance_company": null
+    },
+    "bench": [
+        "M.V.Muralidaran"
+    ],
+    "legal_sections": {},
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/59865663/",
+    "document_type": "final_judgment",
+    "decision": "appeal_partly_allowed",
+    "decision_evidence": "41.In the result, for the forgoing discussion, both the Civil Miscellaneous Appeals are partly allowed. A decree of divorce is granted under",
+    "raw_text_length": 61486,
+    "collection_timestamp": "2026-09-26T04:52:16.421821+00:00",
+    "cleaned_text_length": 60036,
+    "data_quality_score": 0.8,
+    "processing_status": "usable",
+    "exclusion_reason": null,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.0,
+        "outcome_certainty": 0.30000000000000004
+    }
+}

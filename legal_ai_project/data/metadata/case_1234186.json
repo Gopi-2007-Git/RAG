@@ -1,0 +1,49 @@
+{
+    "case_id": "case_1234186",
+    "doc_id": "1234186",
+    "case_title": "Gujarat State Road Transport ... vs Union Of India And Ors.",
+    "court": "Gujarat High Court",
+    "judgment_date": "1986-12-23",
+    "raw_judgment_date": "23 December, 1986",
+    "case_number": "claim petition No. 65 of 1974",
+    "parties": {
+        "appellant_petitioner": "Gujarat State Road Transport ...",
+        "respondent": "Union Of India And Ors.",
+        "insurance_company": null
+    },
+    "bench": [
+        "S.B. Majmudar"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939",
+            "Section 110-B",
+            "Section 95",
+            "Section 96"
+        ],
+        "Code of Civil Procedure, 1908": [
+            "CPC",
+            "{}"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/1234186/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 65753,
+    "collection_timestamp": "2026-08-24T15:52:15.670441+00:00",
+    "cleaned_text_length": 64442,
+    "data_quality_score": 0.7,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

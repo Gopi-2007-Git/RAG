@@ -1,0 +1,39 @@
+{
+    "case_id": "case1",
+    "doc_id": "case1",
+    "case_title": "Asian Resurfacing Of Road Agency P. Ltd. vs Central Bureau Of Investigation",
+    "court": "Supreme Court of India",
+    "judgment_date": "2018-03-28",
+    "raw_judgment_date": "28 March, 2018",
+    "case_number": "CRIMINAL APPEAL NOS. 1375-1376 OF 2013",
+    "parties": {
+        "appellant_petitioner": "Asian Resurfacing Of Road Agency P. Ltd.",
+        "respondent": "Central Bureau Of Investigation",
+        "insurance_company": null
+    },
+    "bench": [
+        "Adarsh Kumar Goel"
+    ],
+    "legal_sections": {
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 108820,
+    "collection_timestamp": "2026-08-24T15:52:15.580325+00:00",
+    "cleaned_text_length": 96855,
+    "data_quality_score": 0.7,
+    "processing_status": "excluded",
+    "exclusion_reason": "missing_source_url",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

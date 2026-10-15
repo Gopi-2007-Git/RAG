@@ -1,0 +1,15 @@
+{
+    "case_id": "case_561465",
+    "case_title": "Sukhdev Kaur (Grewal) vs Ravinder Singh Grewal",
+    "exclusion_reason": "decision_not_identified",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "data_quality_score": 0.6,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.25,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    },
+    "source_url": "https://indiankanoon.org/doc/561465/"
+}

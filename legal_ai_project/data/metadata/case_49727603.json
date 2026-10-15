@@ -1,0 +1,46 @@
+{
+    "case_id": "case_49727603",
+    "doc_id": "49727603",
+    "case_title": "Jai Prakash vs M/S. National Insurance Co. & Ors",
+    "court": "Supreme Court of India",
+    "judgment_date": "2009-12-17",
+    "raw_judgment_date": "17 December, 2009",
+    "case_number": "SPECIAL LEAVE PETITION (CIVIL) No. 11801-11804 of 2005",
+    "parties": {
+        "appellant_petitioner": "Jai Prakash",
+        "respondent": "M/S. National Insurance Co. & Ors",
+        "insurance_company": "National Insurance"
+    },
+    "bench": [
+        "R.V. Raveendran"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 165",
+            "Section 166",
+            "Section 168",
+            "Section 170"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/49727603/",
+    "document_type": "further_hearing",
+    "decision": "interim_order",
+    "decision_evidence": "suggestions. List for further directions on 7.1.2010.",
+    "raw_text_length": 37726,
+    "collection_timestamp": "2026-08-24T15:52:15.962442+00:00",
+    "cleaned_text_length": 30989,
+    "data_quality_score": 0.65,
+    "processing_status": "excluded",
+    "exclusion_reason": "interim_order",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.0
+    }
+}

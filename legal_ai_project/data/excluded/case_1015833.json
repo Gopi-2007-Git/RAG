@@ -1,0 +1,15 @@
+{
+    "case_id": "case_1015833",
+    "case_title": "Rajesh Tyagi & Ors. vs Jaibir Singh & Ors.",
+    "exclusion_reason": "interim_order",
+    "document_type": "further_hearing",
+    "decision": "interim_order",
+    "data_quality_score": 0.65,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.0
+    },
+    "source_url": "https://indiankanoon.org/doc/1015833/"
+}

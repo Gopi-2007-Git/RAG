@@ -1,0 +1,35 @@
+{
+    "case_id": "case_1643829",
+    "doc_id": "1643829",
+    "case_title": "Naveen Kohli vs Neelu Kohli",
+    "court": "Supreme Court of India",
+    "judgment_date": "2006-03-21",
+    "raw_judgment_date": "21 March, 2006",
+    "case_number": "First Appeal No.323 of 2003",
+    "parties": {
+        "appellant_petitioner": "Naveen Kohli",
+        "respondent": "Neelu Kohli",
+        "insurance_company": null
+    },
+    "bench": [
+        "Dalveer Bhandari"
+    ],
+    "legal_sections": {},
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/1643829/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 65266,
+    "collection_timestamp": "2026-09-26T04:52:16.018043+00:00",
+    "cleaned_text_length": 63656,
+    "data_quality_score": 0.6,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.0,
+        "outcome_certainty": 0.05
+    }
+}

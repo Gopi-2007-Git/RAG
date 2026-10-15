@@ -1,0 +1,414 @@
+{
+    "model_name": "all-MiniLM-L6-v2",
+    "dimension": 384,
+    "distance_metric": "IndexFlatL2",
+    "total_cases": 14,
+    "cases": [
+        {
+            "index_position": 0,
+            "case_id": "case_1341139",
+            "case_title": "A. Viswanathan vs G. Lakshmi @ Seetha",
+            "court": "Madras High Court",
+            "judgment_date": "2006-11-20",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "A. Viswanathan",
+                "respondent": "G. Lakshmi @ Seetha",
+                "insurance_company": null
+            },
+            "bench": [
+                "V. Dhanapalan"
+            ],
+            "legal_sections": {},
+            "citations": [],
+            "decision": "appeal_allowed",
+            "decision_evidence": "is allowed thereby granting divorce by dissolving the marriage held on 23.08.1992 between the appellant and respondent and in the result, the appeal is allowed. No costs. Consequently, the connected C.M.P. is closed.",
+            "source_url": "https://indiankanoon.org/doc/1341139/",
+            "data_quality_score": 0.8,
+            "raw_text_length": 58717,
+            "cleaned_text_length": 57100
+        },
+        {
+            "index_position": 1,
+            "case_id": "case_1501320",
+            "case_title": "Karnataka State Road Transport ... vs Reny Mammen And Others",
+            "court": "Karnataka High Court",
+            "judgment_date": "1990-08-31",
+            "case_number": "MVC Nos. 20 of 1985",
+            "parties": {
+                "appellant_petitioner": "Karnataka State Road Transport ...",
+                "respondent": "Reny Mammen And Others",
+                "insurance_company": null
+            },
+            "bench": [],
+            "legal_sections": {
+                "Motor Vehicles Act, 1988": [
+                    "Motor Vehicles Act, 1988",
+                    "Section 149"
+                ],
+                "Motor Vehicles Act, 1939": [
+                    "Motor Vehicles Act, 1939",
+                    "Section 110A",
+                    "Section 110B",
+                    "Section 110C",
+                    "Section 110D",
+                    "Section 110F",
+                    "Section 95",
+                    "Section 96"
+                ],
+                "Indian Penal Code, 1860": [
+                    "IPC"
+                ],
+                "Code of Civil Procedure, 1908": [
+                    "{}"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_partly_allowed",
+            "decision_evidence": "66. For the reasons aforesaid, we make the following order : (i) The appeals are partly allowed. (ii) The appeals in so far as they relate to the quantum of compensation fixed are dismissed;",
+            "source_url": "https://indiankanoon.org/doc/1501320/",
+            "data_quality_score": 0.9,
+            "raw_text_length": 92759,
+            "cleaned_text_length": 91505
+        },
+        {
+            "index_position": 2,
+            "case_id": "case_153460875",
+            "case_title": "Reliance General Insurance Comp. Ltd vs Shashi Sharma & Ors",
+            "court": "Supreme Court of India",
+            "judgment_date": "2016-09-23",
+            "case_number": "CIVIL APPEAL No. 9654 /2016",
+            "parties": {
+                "appellant_petitioner": "Reliance General Insurance Comp. Ltd",
+                "respondent": "Shashi Sharma & Ors",
+                "insurance_company": "New India Assurance"
+            },
+            "bench": [
+                "A.M. Khanwilkar"
+            ],
+            "legal_sections": {
+                "Motor Vehicles Act, 1988": [
+                    "Motor Vehicles Act, 1988",
+                    "Section 168"
+                ],
+                "Motor Vehicles Act, 1939": [
+                    "Motor Vehicles Act, 1939",
+                    "Section 110-B",
+                    "Section 95"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_partly_allowed",
+            "decision_evidence": "25. Accordingly, the appeals are partly allowed in the above terms with",
+            "source_url": "https://indiankanoon.org/doc/153460875/",
+            "data_quality_score": 0.95,
+            "raw_text_length": 48052,
+            "cleaned_text_length": 43539
+        },
+        {
+            "index_position": 3,
+            "case_id": "case_159727399",
+            "case_title": "Swati vs Arvind Mudgal",
+            "court": "Delhi High Court",
+            "judgment_date": "2015-01-29",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "Swati",
+                "respondent": "Arvind Mudgal",
+                "insurance_company": null
+            },
+            "bench": [
+                "J.R. Midha"
+            ],
+            "legal_sections": {
+                "Indian Penal Code, 1860": [
+                    "IPC"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_allowed",
+            "decision_evidence": "32. The appeal is allowed. The impugned judgment and decree",
+            "source_url": "https://indiankanoon.org/doc/159727399/",
+            "data_quality_score": 0.9,
+            "raw_text_length": 86878,
+            "cleaned_text_length": 75569
+        },
+        {
+            "index_position": 4,
+            "case_id": "case_168346092",
+            "case_title": "Dr. Rajasi @ Swapna W/O Shashank Dandge vs Dr. Shashank S/O Vitthalrao Dandge",
+            "court": "Bombay High Court",
+            "judgment_date": "2015-01-06",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "Dr. Rajasi @ Swapna W/O Shashank Dandge",
+                "respondent": "Dr. Shashank S/O Vitthalrao Dandge",
+                "insurance_company": null
+            },
+            "bench": [
+                "Mridula Bhatkar"
+            ],
+            "legal_sections": {
+                "Indian Penal Code, 1860": [
+                    "IPC",
+                    "Section 304"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_dismissed",
+            "decision_evidence": "25. In the result, the appeal is dismissed. The Cross-",
+            "source_url": "https://indiankanoon.org/doc/168346092/",
+            "data_quality_score": 0.9,
+            "raw_text_length": 59206,
+            "cleaned_text_length": 40521
+        },
+        {
+            "index_position": 5,
+            "case_id": "case_17403",
+            "case_title": "Ajai Kumar Son Of Late Shri Om Prakash vs Motor Accident Claims Tribunal, ...",
+            "court": "Allahabad High Court",
+            "judgment_date": "2006-11-13",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "Ajai Kumar Son Of Late Shri Om Prakash",
+                "respondent": "Motor Accident Claims Tribunal, ...",
+                "insurance_company": "United India Insurance"
+            },
+            "bench": [
+                "Rakesh Sharma"
+            ],
+            "legal_sections": {},
+            "citations": [],
+            "decision": "petition_allowed",
+            "decision_evidence": "7. In view of above, the writ petition is allowed and the judgment and orders dated 1.10.2002 and 3.3.2003 passed by the Motor Accident Claims Tribunal, Moradabad, contained respectively in Annexures 2 and 3 to the petition are quashed. The Tribunal shall reopen the proceedings, hear the case on merits and conclude the controversy expeditiously.",
+            "source_url": "https://indiankanoon.org/doc/17403/",
+            "data_quality_score": 0.76,
+            "raw_text_length": 6079,
+            "cleaned_text_length": 5007
+        },
+        {
+            "index_position": 6,
+            "case_id": "case_177304220",
+            "case_title": "Suman Kundra vs Sanjeev Kundra",
+            "court": "Delhi High Court",
+            "judgment_date": "2015-05-28",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "Suman Kundra",
+                "respondent": "Sanjeev Kundra",
+                "insurance_company": null
+            },
+            "bench": [
+                "V.K. Shali"
+            ],
+            "legal_sections": {
+                "Code of Civil Procedure, 1908": [
+                    "CPC",
+                    "{}"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_partly_allowed",
+            "decision_evidence": "on 3rd August, 2015. With this direction, the appeal is partly allowed.",
+            "source_url": "https://indiankanoon.org/doc/177304220/",
+            "data_quality_score": 0.9,
+            "raw_text_length": 35912,
+            "cleaned_text_length": 32452
+        },
+        {
+            "index_position": 7,
+            "case_id": "case_185617217",
+            "case_title": "Anmol Verma (Minor) vs Motor Accident Claim Tribunal/ ...",
+            "court": "Allahabad High Court",
+            "judgment_date": "2018-04-11",
+            "case_number": "M.A.C.P. No.26 of 2012",
+            "parties": {
+                "appellant_petitioner": "Anmol Verma (Minor)",
+                "respondent": "Motor Accident Claim Tribunal/ ...",
+                "insurance_company": null
+            },
+            "bench": [
+                "Vivek Kumar Birla"
+            ],
+            "legal_sections": {},
+            "citations": [],
+            "decision": "petition_dismissed",
+            "decision_evidence": "I find no illegality in the order impugned herein. The petition stands dismissed.",
+            "source_url": "https://indiankanoon.org/doc/185617217/",
+            "data_quality_score": 0.85,
+            "raw_text_length": 11674,
+            "cleaned_text_length": 10622
+        },
+        {
+            "index_position": 8,
+            "case_id": "case_1955779",
+            "case_title": "Tapan Kumar Chakraborty vs Smt. Jyotsna Chakraborty",
+            "court": "Calcutta High Court",
+            "judgment_date": "1996-07-09",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "Tapan Kumar Chakraborty",
+                "respondent": "Smt. Jyotsna Chakraborty",
+                "insurance_company": null
+            },
+            "bench": [],
+            "legal_sections": {},
+            "citations": [],
+            "decision": "appeal_allowed",
+            "decision_evidence": "24. I agree. Appeal allowed.",
+            "source_url": "https://indiankanoon.org/doc/1955779/",
+            "data_quality_score": 0.75,
+            "raw_text_length": 74153,
+            "cleaned_text_length": 72677
+        },
+        {
+            "index_position": 9,
+            "case_id": "case_339461",
+            "case_title": "Smt. Hansaguri Prafulchandra Ladhani ... vs The Oriental Insurance Company Ltd. And ...",
+            "court": "Gujarat High Court",
+            "judgment_date": "2006-10-04",
+            "case_number": "First Appeal No. 1392 of 2006",
+            "parties": {
+                "appellant_petitioner": "Smt. Hansaguri Prafulchandra Ladhani ...",
+                "respondent": "The Oriental Insurance Company Ltd. And ...",
+                "insurance_company": "Oriental Insurance"
+            },
+            "bench": [
+                "M.S. Shah"
+            ],
+            "legal_sections": {
+                "Motor Vehicles Act, 1988": [
+                    "Motor Vehicles Act, 1988"
+                ],
+                "Motor Vehicles Act, 1939": [
+                    "Motor Vehicles Act, 1939"
+                ]
+            },
+            "citations": [],
+            "decision": "claim_allowed",
+            "decision_evidence": "171. Award of interest where any claim is allowed.- Where any Claims Tribunal allows a claim for compensation made under this Act, such Tribunal may direct that in addition to the amount of compensation simple interest shall also be paid at such rate and from such date not earlier than the date of making the claim as it may specify in this behalf.",
+            "source_url": "https://indiankanoon.org/doc/339461/",
+            "data_quality_score": 0.95,
+            "raw_text_length": 20020,
+            "cleaned_text_length": 18558
+        },
+        {
+            "index_position": 10,
+            "case_id": "case_37083853",
+            "case_title": "Shailendra Kumar Singh vs Smt. Reeta Singh And Another",
+            "court": "Allahabad High Court",
+            "judgment_date": "2019-12-19",
+            "case_number": "FIRST APPEAL No. - 151 of 2012",
+            "parties": {
+                "appellant_petitioner": "Shailendra Kumar Singh",
+                "respondent": "Smt. Reeta Singh And Another",
+                "insurance_company": null
+            },
+            "bench": [
+                "Anil Kumar"
+            ],
+            "legal_sections": {
+                "Code of Civil Procedure, 1908": [
+                    "CPC"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_allowed",
+            "decision_evidence": "For the foregoing reasons, the appeal is allowed. The order dated 05.09.2012, passed by the Family Court, Faizabad in Suit No. 105 of 2000 (",
+            "source_url": "https://indiankanoon.org/doc/37083853/",
+            "data_quality_score": 0.95,
+            "raw_text_length": 93405,
+            "cleaned_text_length": 91821
+        },
+        {
+            "index_position": 11,
+            "case_id": "case_59865663",
+            "case_title": "M.Laxman vs L.Annapurani",
+            "court": "Madras High Court",
+            "judgment_date": "2018-06-05",
+            "case_number": null,
+            "parties": {
+                "appellant_petitioner": "M.Laxman",
+                "respondent": "L.Annapurani",
+                "insurance_company": null
+            },
+            "bench": [
+                "M.V.Muralidaran"
+            ],
+            "legal_sections": {},
+            "citations": [],
+            "decision": "appeal_partly_allowed",
+            "decision_evidence": "41.In the result, for the forgoing discussion, both the Civil Miscellaneous Appeals are partly allowed. A decree of divorce is granted under",
+            "source_url": "https://indiankanoon.org/doc/59865663/",
+            "data_quality_score": 0.8,
+            "raw_text_length": 61486,
+            "cleaned_text_length": 60036
+        },
+        {
+            "index_position": 12,
+            "case_id": "case_73769857",
+            "case_title": "Oriental Ins.Co.Ltd vs Dyamavva & Ors",
+            "court": "Supreme Court of India",
+            "judgment_date": "2013-02-05",
+            "case_number": "CIVIL APPEAL NO. 937 OF 2013",
+            "parties": {
+                "appellant_petitioner": "Oriental Ins.Co.Ltd",
+                "respondent": "Dyamavva & Ors",
+                "insurance_company": "Oriental Insurance"
+            },
+            "bench": [
+                "Jagdish Singh Khehar"
+            ],
+            "legal_sections": {
+                "Motor Vehicles Act, 1988": [
+                    "Motor Vehicles Act, 1988",
+                    "Section 140",
+                    "Section 165",
+                    "Section 166"
+                ],
+                "Motor Vehicles Act, 1939": [
+                    "Motor Vehicles Act, 1939"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_dismissed",
+            "decision_evidence": "appeal. The judgment rendered by the High Court is affirmed. The instant appeal is accordingly dismissed. .......................................J.",
+            "source_url": "https://indiankanoon.org/doc/73769857/",
+            "data_quality_score": 0.95,
+            "raw_text_length": 35423,
+            "cleaned_text_length": 30892
+        },
+        {
+            "index_position": 13,
+            "case_id": "case_97624839",
+            "case_title": "The New India Assurance Company Limited vs Somwati",
+            "court": "Supreme Court of India",
+            "judgment_date": "2020-09-07",
+            "case_number": "CIVIL APPEAL NO.3093 OF 2020",
+            "parties": {
+                "appellant_petitioner": "The New India Assurance Company Limited",
+                "respondent": "Somwati",
+                "insurance_company": "New India Assurance"
+            },
+            "bench": [
+                "Ashok Bhushan"
+            ],
+            "legal_sections": {
+                "Motor Vehicles Act, 1988": [
+                    "Motor Vehicles Act, 1988",
+                    "Section 166"
+                ],
+                "Motor Vehicles Act, 1939": [
+                    "Motor Vehicles Act, 1939"
+                ]
+            },
+            "citations": [],
+            "decision": "appeal_partly_allowed",
+            "decision_evidence": "with law. 48. All the appeals are partly allowed accordingly. No costs.",
+            "source_url": "https://indiankanoon.org/doc/97624839/",
+            "data_quality_score": 0.95,
+            "raw_text_length": 45591,
+            "cleaned_text_length": 38178
+        }
+    ]
+}

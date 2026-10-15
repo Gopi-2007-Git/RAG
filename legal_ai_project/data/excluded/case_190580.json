@@ -1,0 +1,15 @@
+{
+    "case_id": "case_190580",
+    "case_title": "The Oriental Insurance Co. Ltd vs Hansrajbhai V. Kodala & Ors",
+    "exclusion_reason": "decision_not_identified",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "data_quality_score": 0.65,
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.3,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    },
+    "source_url": "https://indiankanoon.org/doc/190580/"
+}

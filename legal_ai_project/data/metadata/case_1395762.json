@@ -1,0 +1,56 @@
+{
+    "case_id": "case_1395762",
+    "doc_id": "1395762",
+    "case_title": "Ganesh vs Syed Munned Ahamed And Ors.",
+    "court": "Karnataka High Court",
+    "judgment_date": "1998-09-18",
+    "raw_judgment_date": "18 September, 1998",
+    "case_number": "M.V.C. No. 1111 of 1988",
+    "parties": {
+        "appellant_petitioner": "Ganesh",
+        "respondent": "Syed Munned Ahamed And Ors.",
+        "insurance_company": "New India Assurance"
+    },
+    "bench": [
+        "P. Vishwanatha Shetty",
+        "V. Gopala Gowda"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 149",
+            "Section 165",
+            "Section 166",
+            "Section 168",
+            "Section 173"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939",
+            "Section 110-A",
+            "Section 110-B",
+            "Section 110-C",
+            "Section 110-E",
+            "Section 110-F"
+        ],
+        "Indian Penal Code, 1860": [
+            "IPC"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/1395762/",
+    "document_type": "final_judgment",
+    "decision": "not_identified",
+    "decision_evidence": null,
+    "raw_text_length": 116405,
+    "collection_timestamp": "2026-08-24T15:52:15.782662+00:00",
+    "cleaned_text_length": 114816,
+    "data_quality_score": 0.7,
+    "processing_status": "excluded",
+    "exclusion_reason": "decision_not_identified",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.05
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "case_id": "case_73769857",
+    "doc_id": "73769857",
+    "case_title": "Oriental Ins.Co.Ltd vs Dyamavva & Ors",
+    "court": "Supreme Court of India",
+    "judgment_date": "2013-02-05",
+    "raw_judgment_date": "5 February, 2013",
+    "case_number": "CIVIL APPEAL NO. 937 OF 2013",
+    "parties": {
+        "appellant_petitioner": "Oriental Ins.Co.Ltd",
+        "respondent": "Dyamavva & Ors",
+        "insurance_company": "Oriental Insurance"
+    },
+    "bench": [
+        "Jagdish Singh Khehar"
+    ],
+    "legal_sections": {
+        "Motor Vehicles Act, 1988": [
+            "Motor Vehicles Act, 1988",
+            "Section 140",
+            "Section 165",
+            "Section 166"
+        ],
+        "Motor Vehicles Act, 1939": [
+            "Motor Vehicles Act, 1939"
+        ]
+    },
+    "citations": [],
+    "source_url": "https://indiankanoon.org/doc/73769857/",
+    "document_type": "final_judgment",
+    "decision": "appeal_dismissed",
+    "decision_evidence": "appeal. The judgment rendered by the High Court is affirmed. The instant appeal is accordingly dismissed. .......................................J.",
+    "raw_text_length": 35423,
+    "collection_timestamp": "2026-08-24T15:52:15.972444+00:00",
+    "cleaned_text_length": 30892,
+    "data_quality_score": 0.95,
+    "processing_status": "usable",
+    "quality_breakdown": {
+        "text_richness": 0.2,
+        "metadata_completeness": 0.35,
+        "legal_citations": 0.1,
+        "outcome_certainty": 0.30000000000000004
+    },
+    "exclusion_reason": null
+}
